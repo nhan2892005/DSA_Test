@@ -245,7 +245,7 @@ int main(int argc, char* argv[]) {
         string expectFilename = path_expected + "expect" + to_string(i) + ".txt";
         string outputFilename = path_output + "output" + to_string(i) + ".txt";
         string logFilename = path_logFile + "log" + to_string(i) + ".txt";
-        ofstream output(expectFilename);
+        ofstream output(outputFilename);
         if (!output.is_open()) {
             cerr << "Không thể tạo file: " << expectFilename << endl;
             return 1;

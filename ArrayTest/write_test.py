@@ -23,7 +23,7 @@ def generate_test_cases(num_cases):
         "ADD", "REMOVE", "ISEMPTY", "GETSIZE", "CLEAR", "GET", "GETINDEX", "ISCONTAIN"
     ]
     data_types = [int, float, str, chr, Point]
-    data_type_weights = [1, 1, 1, 1, 3]  # Tăng trọng số cho Point
+    data_type_weights = [1, 1, 1, 1, 3] 
     test_cases = []
 
     chosen_type = random.choices(data_types, weights=data_type_weights, k=1)[0]
@@ -34,13 +34,13 @@ def generate_test_cases(num_cases):
     current_values = []
 
     for _ in range(num_cases):
-        op = random.choices(operations, weights=[3, 2, 1, 1, 1, 1, 1, 1], k=1)[0]  # Tăng trọng số cho ADD và REMOVE
+        op = random.choices(operations, weights=[3, 2, 1, 1, 1, 1, 1, 1], k=1)[0]  
         if op == "ADD":
             value = generate_random_value(chosen_type)
             added_values.append(value)
             current_values.append(value)
-            if random.random() < 0.7:  # 70% cơ hội thêm vào vị trí cụ thể
-                at = random.randint(0, max(list_size, 1))  # Cho phép thêm vào cuối
+            if random.random() < 0.7: 
+                at = random.randint(0, max(list_size, 1)) 
                 test_cases.append(f"ADD value:{value} at:{at}")
                 list_size += 1
             else:
@@ -75,7 +75,7 @@ def generate_test_cases(num_cases):
                     at = random.randint(list_size, list_size + 10)
                     test_cases.append(f"REMOVE at:{at}")
             else:
-                test_cases.append(f"REMOVE at:0")  # Thử xóa khi danh sách rỗng
+                test_cases.append(f"REMOVE at:0")  
         elif op in ["ISEMPTY", "GETSIZE", "CLEAR"]:
             test_cases.append(op)
             if op == "CLEAR":
@@ -88,7 +88,7 @@ def generate_test_cases(num_cases):
             value = random.choice(current_values) if current_values and random.random() < 0.7 else generate_random_value(chosen_type)
             test_cases.append(f"GETINDEX value:{value}")
         elif op == "ISCONTAIN":
-            if random.random() < 0.7 and current_values:  # 70% cơ hội chọn giá trị có trong danh sách
+            if random.random() < 0.7 and current_values:  
                 value = random.choice(current_values)
             else:
                 value = generate_random_value(chosen_type)
