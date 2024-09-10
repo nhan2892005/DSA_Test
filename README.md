@@ -77,7 +77,7 @@ Now, run this command in the terminal to compile the code into an executable fil
 Notes: Please come to `dsastudents` directory before run test
 
 ```
-g++ -o <your exe> -Isrc -Iinclude -std=c++17 -g array_list_test
+g++ -o <your exe> -Isrc -Iinclude -std=c++17 -g array_list_test.cpp
 ```
 
 * Explanation: 
