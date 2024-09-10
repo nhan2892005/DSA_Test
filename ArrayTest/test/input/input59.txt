@@ -1,0 +1,9 @@
+TYPE:chr
+ISCONTAIN value:j
+ISEMPTY
+ADD value:o at:0
+GETSIZE
+ISEMPTY
+ADD value:s at:0
+GET at:1
+REMOVE value:o

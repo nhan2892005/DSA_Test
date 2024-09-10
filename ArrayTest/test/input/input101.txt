@@ -1,0 +1,15 @@
+TYPE:str
+GETINDEX value:hcyes
+GET at:0
+GET at:0
+GET at:0
+CLEAR
+REMOVE at:0
+GETINDEX value:kvuuu
+ADD value:wogvr
+CLEAR
+REMOVE at:0
+GET at:0
+REMOVE at:0
+REMOVE at:0
+REMOVE at:0

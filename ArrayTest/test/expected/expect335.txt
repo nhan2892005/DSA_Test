@@ -1,0 +1,7 @@
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range!

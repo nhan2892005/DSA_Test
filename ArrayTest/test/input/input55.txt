@@ -1,0 +1,8 @@
+TYPE:Point
+ADD value:Point(x=85.22, y=18.83, z=78.79) at:1
+ADD value:Point(x=89.1, y=33.39, z=32.24)
+ADD value:Point(x=89.88, y=21.16, z=78.87)
+ISCONTAIN value:Point(x=89.1, y=33.39, z=32.24)
+ADD value:Point(x=61.74, y=0.11, z=60.29) at:1
+ADD value:Point(x=83.39, y=71.75, z=65.71)
+ADD value:Point(x=9.04, y=91.16, z=33.97) at:3

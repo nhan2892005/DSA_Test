@@ -1,0 +1,3 @@
+TYPE:str
+ISEMPTY
+ISCONTAIN value:pxxnl

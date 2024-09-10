@@ -1,0 +1,30 @@
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD mpcik at 0: 
+[]
+List state after ADD: 
+[mpcik]
+List state before GETSIZE : 
+[mpcik]
+1
+List state after GETSIZE: 
+[mpcik]
+List state before GET  at 0: 
+[mpcik]
+mpcik
+List state after GET: 
+[mpcik]
+List state before REMOVE  at 0: 
+[mpcik]
+List state after REMOVE: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range

@@ -1,0 +1,43 @@
+List state before ISCONTAIN 38.78: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before GETINDEX 90.1: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before GETINDEX 31.8: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ISCONTAIN 32.6: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before ISCONTAIN 54.96: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range!

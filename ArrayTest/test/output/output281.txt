@@ -1,0 +1,21 @@
+List state before ADD lhpxl at 0: 
+[]
+List state after ADD: 
+[lhpxl]
+List state before ISEMPTY : 
+[lhpxl]
+false
+List state after ISEMPTY: 
+[lhpxl]
+List state before ADD aqsxm at 1: 
+[lhpxl]
+List state after ADD: 
+[lhpxl, aqsxm]
+List state before ISCONTAIN lhpxl: 
+[lhpxl, aqsxm]
+true
+List state after ISCONTAIN: 
+[lhpxl, aqsxm]
+List state before REMOVE  at 3: 
+[lhpxl, aqsxm]
+Index is out of range

@@ -1,0 +1,18 @@
+List state before GETINDEX Point(x=15.26, y=19.86, z=61.76): 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ISCONTAIN Point(x=96.68, y=12.21, z=59.77): 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GETINDEX Point(x=7.72, y=56.92, z=64.86): 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range!

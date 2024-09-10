@@ -1,0 +1,25 @@
+List state before ADD fmqgp: 
+[]
+List state after ADD: 
+[fmqgp]
+List state before ISEMPTY : 
+[fmqgp]
+false
+List state after ISEMPTY: 
+[fmqgp]
+List state before ADD hvuyc at 0: 
+[fmqgp]
+List state after ADD: 
+[hvuyc, fmqgp]
+List state before GETSIZE : 
+[hvuyc, fmqgp]
+2
+List state after GETSIZE: 
+[hvuyc, fmqgp]
+List state before REMOVE  at 0: 
+[hvuyc, fmqgp]
+List state after REMOVE: 
+[fmqgp]
+List state before REMOVE  at 7: 
+[fmqgp]
+Index is out of range!

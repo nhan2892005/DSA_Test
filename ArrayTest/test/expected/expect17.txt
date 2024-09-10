@@ -1,0 +1,9 @@
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before GETINDEX Point(x=89.34, y=32.71, z=3.29): 
+[]
+-1
+List state after GETINDEX: 
+[]

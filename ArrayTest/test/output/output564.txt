@@ -1,0 +1,18 @@
+List state before GETINDEX x: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ADD z at 1: 
+[]
+Index is out of range

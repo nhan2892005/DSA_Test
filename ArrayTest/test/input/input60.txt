@@ -1,0 +1,9 @@
+TYPE:float
+CLEAR
+ADD value:13.01 at:1
+GETSIZE
+ISCONTAIN value:82.72
+ADD value:78.82 at:1
+REMOVE at:1
+GETSIZE
+ISCONTAIN value:13.01

@@ -1,0 +1,76 @@
+List state before ADD rbwnu at 0: 
+[]
+List state after ADD: 
+[rbwnu]
+List state before ADD rbtji: 
+[rbwnu]
+List state after ADD: 
+[rbwnu, rbtji]
+List state before ISCONTAIN xcepb: 
+[rbwnu, rbtji]
+false
+List state after ISCONTAIN: 
+[rbwnu, rbtji]
+List state before REMOVE  at 0: 
+[rbwnu, rbtji]
+List state after REMOVE: 
+[rbtji]
+List state before ADD imntw at 0: 
+[rbtji]
+List state after ADD: 
+[imntw, rbtji]
+List state before GETSIZE : 
+[imntw, rbtji]
+2
+List state after GETSIZE: 
+[imntw, rbtji]
+List state before REMOVE  at 1: 
+[imntw, rbtji]
+List state after REMOVE: 
+[imntw]
+List state before ADD yxfrx: 
+[imntw]
+List state after ADD: 
+[imntw, yxfrx]
+List state before GETINDEX yxfrx: 
+[imntw, yxfrx]
+1
+List state after GETINDEX: 
+[imntw, yxfrx]
+List state before GETSIZE : 
+[imntw, yxfrx]
+2
+List state after GETSIZE: 
+[imntw, yxfrx]
+List state before CLEAR : 
+[imntw, yxfrx]
+List state after CLEAR: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ISCONTAIN pstba: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ADD ezdqu at 1: 
+[]
+Index is out of range

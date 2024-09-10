@@ -1,0 +1,22 @@
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ISCONTAIN Point(x=98.92, y=86.04, z=88.92): 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range!

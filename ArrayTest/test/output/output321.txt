@@ -1,0 +1,31 @@
+List state before ADD v at 0: 
+[]
+List state after ADD: 
+[v]
+List state before ISCONTAIN v: 
+[v]
+true
+List state after ISCONTAIN: 
+[v]
+List state before GETSIZE : 
+[v]
+1
+List state after GETSIZE: 
+[v]
+List state before ISCONTAIN v: 
+[v]
+true
+List state after ISCONTAIN: 
+[v]
+List state before ISCONTAIN v: 
+[v]
+true
+List state after ISCONTAIN: 
+[v]
+List state before REMOVE v: 
+[v]
+List state after REMOVE: 
+[]
+List state before ADD m at 1: 
+[]
+Index is out of range

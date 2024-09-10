@@ -1,0 +1,36 @@
+List state before ADD 86: 
+[]
+List state after ADD: 
+[86]
+List state before ISEMPTY : 
+[86]
+false
+List state after ISEMPTY: 
+[86]
+List state before GETSIZE : 
+[86]
+1
+List state after GETSIZE: 
+[86]
+List state before GET  at 0: 
+[86]
+86
+List state after GET: 
+[86]
+List state before ISEMPTY : 
+[86]
+false
+List state after ISEMPTY: 
+[86]
+List state before ISCONTAIN 86: 
+[86]
+true
+List state after ISCONTAIN: 
+[86]
+List state before REMOVE  at 0: 
+[86]
+List state after REMOVE: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range

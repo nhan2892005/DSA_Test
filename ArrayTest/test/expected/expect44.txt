@@ -1,0 +1,22 @@
+List state before ADD z at 0: 
+[]
+List state after ADD: 
+[z]
+List state before ISCONTAIN z: 
+[z]
+true
+List state after ISCONTAIN: 
+[z]
+List state before GETSIZE : 
+[z]
+1
+List state after GETSIZE: 
+[z]
+List state before GETINDEX z: 
+[z]
+0
+List state after GETINDEX: 
+[z]
+List state before REMOVE  at 1: 
+[z]
+Index is out of range!

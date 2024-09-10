@@ -1,0 +1,60 @@
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD 2 at 0: 
+[]
+List state after ADD: 
+[2]
+List state before ADD 100 at 0: 
+[2]
+List state after ADD: 
+[100, 2]
+List state before ISCONTAIN 2: 
+[100, 2]
+true
+List state after ISCONTAIN: 
+[100, 2]
+List state before ISCONTAIN 2: 
+[100, 2]
+true
+List state after ISCONTAIN: 
+[100, 2]
+List state before ADD 21: 
+[100, 2]
+List state after ADD: 
+[100, 2, 21]
+List state before REMOVE  at 1: 
+[100, 2, 21]
+List state after REMOVE: 
+[100, 21]
+List state before ADD 6: 
+[100, 21]
+List state after ADD: 
+[100, 21, 6]
+List state before GET  at 1: 
+[100, 21, 6]
+21
+List state after GET: 
+[100, 21, 6]
+List state before GETSIZE : 
+[100, 21, 6]
+3
+List state after GETSIZE: 
+[100, 21, 6]
+List state before REMOVE  at 0: 
+[100, 21, 6]
+List state after REMOVE: 
+[21, 6]
+List state before CLEAR : 
+[21, 6]
+List state after CLEAR: 
+[]
+List state before ISCONTAIN 67: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range

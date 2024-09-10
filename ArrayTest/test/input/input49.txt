@@ -1,0 +1,7 @@
+TYPE:chr
+ADD value:c
+GETSIZE
+GETSIZE
+ISEMPTY
+ISCONTAIN value:h
+GET at:0

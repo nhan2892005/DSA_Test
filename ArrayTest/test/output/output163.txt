@@ -1,0 +1,57 @@
+List state before ADD 13.96: 
+[]
+List state after ADD: 
+[13.96]
+List state before ISEMPTY : 
+[13.96]
+false
+List state after ISEMPTY: 
+[13.96]
+List state before ADD 61.27 at 1: 
+[13.96]
+List state after ADD: 
+[13.96, 61.27]
+List state before REMOVE  at 0: 
+[13.96, 61.27]
+List state after REMOVE: 
+[61.27]
+List state before ADD 54.6: 
+[61.27]
+List state after ADD: 
+[61.27, 54.6]
+List state before GET  at 1: 
+[61.27, 54.6]
+54.60
+List state after GET: 
+[61.27, 54.6]
+List state before REMOVE  at 0: 
+[61.27, 54.6]
+List state after REMOVE: 
+[54.6]
+List state before ISEMPTY : 
+[54.6]
+false
+List state after ISEMPTY: 
+[54.6]
+List state before ISEMPTY : 
+[54.6]
+false
+List state after ISEMPTY: 
+[54.6]
+List state before GETINDEX 54.6: 
+[54.6]
+0
+List state after GETINDEX: 
+[54.6]
+List state before GETINDEX 36.5: 
+[54.6]
+-1
+List state after GETINDEX: 
+[54.6]
+List state before ADD 71.91 at 1: 
+[54.6]
+List state after ADD: 
+[54.6, 71.91]
+List state before REMOVE  at 9: 
+[54.6, 71.91]
+Index is out of range

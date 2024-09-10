@@ -1,0 +1,38 @@
+List state before ADD z at 0: 
+[]
+List state after ADD: 
+[z]
+List state before GETSIZE : 
+[z]
+1
+List state after GETSIZE: 
+[z]
+List state before GETINDEX x: 
+[z]
+-1
+List state after GETINDEX: 
+[z]
+List state before ADD t: 
+[z]
+List state after ADD: 
+[z, t]
+List state before ADD w at 2: 
+[z, t]
+List state after ADD: 
+[z, t, w]
+List state before ADD x: 
+[z, t, w]
+List state after ADD: 
+[z, t, w, x]
+List state before CLEAR : 
+[z, t, w, x]
+List state after CLEAR: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range!

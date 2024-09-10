@@ -1,0 +1,8 @@
+List state before ISCONTAIN 89: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range

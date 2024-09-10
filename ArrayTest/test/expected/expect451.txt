@@ -1,0 +1,29 @@
+List state before ADD 25: 
+[]
+List state after ADD: 
+[25]
+List state before GET  at 0: 
+[25]
+25
+List state after GET: 
+[25]
+List state before CLEAR : 
+[25]
+List state after CLEAR: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before ADD 18 at 0: 
+[]
+List state after ADD: 
+[18]
+List state before CLEAR : 
+[18]
+List state after CLEAR: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range!

@@ -1,0 +1,7 @@
+TYPE:chr
+REMOVE at:0
+GET at:0
+ADD value:d
+GETSIZE
+GET at:0
+REMOVE at:0

@@ -1,0 +1,79 @@
+TYPE:Point
+ADD value:Point(x=32.09, y=99.28, z=96.89)
+CLEAR
+GETINDEX value:Point(x=98.74, y=48.72, z=61.58)
+CLEAR
+ISEMPTY
+GETINDEX value:Point(x=3.87, y=56.69, z=19.71)
+REMOVE at:0
+ISEMPTY
+ISCONTAIN value:Point(x=93.87, y=5.97, z=22.78)
+GET at:0
+ISEMPTY
+ISEMPTY
+ADD value:Point(x=50.48, y=46.57, z=20.11)
+REMOVE at:11
+GETINDEX value:Point(x=88.51, y=19.36, z=94.51)
+REMOVE at:8
+ADD value:Point(x=74.66, y=37.03, z=75.2) at:0
+REMOVE value:Point(x=50.48, y=46.57, z=20.11)
+ADD value:Point(x=57.21, y=74.57, z=61.51)
+ADD value:Point(x=93.98, y=62.66, z=91.56)
+GET at:1
+ADD value:Point(x=1.04, y=69.13, z=27.0) at:3
+ADD value:Point(x=28.91, y=99.25, z=48.93) at:3
+ADD value:Point(x=2.87, y=94.09, z=30.99)
+REMOVE value:Point(x=74.66, y=37.03, z=75.2)
+CLEAR
+GETSIZE
+GET at:0
+GET at:0
+ADD value:Point(x=76.14, y=62.95, z=16.67) at:0
+ISCONTAIN value:Point(x=76.14, y=62.95, z=16.67)
+REMOVE at:0
+ISCONTAIN value:Point(x=18.68, y=84.65, z=7.56)
+ISCONTAIN value:Point(x=38.95, y=36.99, z=46.35)
+ISCONTAIN value:Point(x=6.8, y=88.77, z=1.65)
+CLEAR
+CLEAR
+ADD value:Point(x=67.3, y=18.58, z=92.5) at:1
+GETSIZE
+ISEMPTY
+ISEMPTY
+GETINDEX value:Point(x=67.3, y=18.58, z=92.5)
+GET at:0
+REMOVE at:0
+ADD value:Point(x=50.2, y=31.37, z=24.75) at:0
+ISCONTAIN value:Point(x=50.2, y=31.37, z=24.75)
+GETSIZE
+GET at:0
+GET at:0
+CLEAR
+ADD value:Point(x=43.2, y=34.82, z=79.8)
+ADD value:Point(x=30.27, y=11.23, z=64.33) at:1
+GET at:1
+ADD value:Point(x=1.54, y=96.06, z=32.39) at:0
+GET at:1
+ISEMPTY
+GETSIZE
+REMOVE value:Point(x=30.27, y=11.23, z=64.33)
+GETINDEX value:Point(x=43.2, y=34.82, z=79.8)
+GETSIZE
+GETSIZE
+GETSIZE
+ISCONTAIN value:Point(x=43.2, y=34.82, z=79.8)
+CLEAR
+CLEAR
+GET at:0
+REMOVE at:0
+ADD value:Point(x=81.27, y=50.42, z=61.73) at:0
+ISEMPTY
+ADD value:Point(x=26.46, y=59.02, z=29.61) at:0
+ISEMPTY
+GETINDEX value:Point(x=26.46, y=59.02, z=29.61)
+REMOVE at:0
+REMOVE at:7
+ADD value:Point(x=37.49, y=35.92, z=66.73) at:1
+REMOVE at:1
+GETINDEX value:Point(x=26.46, y=59.02, z=29.61)
+GET at:0

@@ -1,0 +1,16 @@
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before ADD b: 
+[]
+List state after ADD: 
+[b]
+List state before CLEAR : 
+[b]
+List state after CLEAR: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range

@@ -1,0 +1,31 @@
+List state before ISCONTAIN mgfyw: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ADD itytm at 0: 
+[]
+List state after ADD: 
+[itytm]
+List state before REMOVE  at 0: 
+[itytm]
+List state after REMOVE: 
+[]
+List state before ISCONTAIN hmchh: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GETINDEX hzvoa: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before ADD zxzea at 1: 
+[]
+Index is out of range

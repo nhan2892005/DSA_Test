@@ -1,0 +1,26 @@
+TYPE:float
+GET at:0
+ADD value:21.26 at:0
+REMOVE at:0
+CLEAR
+GETSIZE
+ADD value:31.36 at:1
+REMOVE at:0
+ISEMPTY
+ADD value:12.72 at:1
+ADD value:81.53 at:0
+ADD value:16.6 at:2
+CLEAR
+REMOVE at:0
+ISEMPTY
+ISEMPTY
+ADD value:31.6
+REMOVE at:0
+ADD value:10.37 at:0
+ADD value:94.43 at:1
+ADD value:20.11 at:0
+ISCONTAIN value:64.45
+REMOVE value:10.37
+GET at:2
+GETINDEX value:94.43
+GETSIZE

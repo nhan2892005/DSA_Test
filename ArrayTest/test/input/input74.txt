@@ -1,0 +1,11 @@
+TYPE:chr
+REMOVE at:0
+ADD value:x at:1
+ADD value:f
+GETSIZE
+ADD value:i at:1
+ISEMPTY
+REMOVE at:10
+ADD value:o at:1
+ADD value:i at:0
+ADD value:u

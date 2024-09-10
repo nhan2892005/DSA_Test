@@ -1,0 +1,63 @@
+TYPE:Point
+ISCONTAIN value:Point(x=40.21, y=19.55, z=56.83)
+ADD value:Point(x=22.26, y=65.41, z=15.18) at:1
+ADD value:Point(x=39.37, y=95.24, z=12.1)
+GETSIZE
+ADD value:Point(x=85.16, y=60.24, z=11.45) at:2
+ADD value:Point(x=43.25, y=39.9, z=41.38) at:0
+ADD value:Point(x=50.16, y=62.47, z=62.15) at:2
+ADD value:Point(x=88.83, y=89.24, z=15.26)
+GETINDEX value:Point(x=85.16, y=60.24, z=11.45)
+GETINDEX value:Point(x=88.83, y=89.24, z=15.26)
+REMOVE at:0
+REMOVE at:11
+ADD value:Point(x=39.06, y=55.78, z=61.15) at:4
+REMOVE at:13
+ISEMPTY
+ADD value:Point(x=33.85, y=17.2, z=12.37) at:5
+REMOVE value:Point(x=39.37, y=95.24, z=12.1)
+CLEAR
+ADD value:Point(x=57.61, y=44.67, z=51.94) at:0
+GETINDEX value:Point(x=57.61, y=44.67, z=51.94)
+GETINDEX value:Point(x=57.61, y=44.67, z=51.94)
+ADD value:Point(x=39.66, y=67.65, z=78.78)
+REMOVE at:0
+GETINDEX value:Point(x=25.64, y=11.05, z=83.36)
+ADD value:Point(x=12.39, y=35.79, z=21.99)
+ADD value:Point(x=53.57, y=57.94, z=1.95) at:1
+REMOVE at:2
+CLEAR
+ISCONTAIN value:Point(x=97.04, y=61.48, z=83.02)
+ADD value:Point(x=17.85, y=23.79, z=4.57) at:1
+ADD value:Point(x=12.5, y=70.78, z=8.71) at:0
+ADD value:Point(x=49.37, y=98.8, z=79.13) at:0
+GET at:2
+ADD value:Point(x=56.63, y=1.07, z=13.91)
+ADD value:Point(x=47.42, y=65.77, z=22.57) at:2
+ADD value:Point(x=77.36, y=87.65, z=71.76) at:0
+GETSIZE
+CLEAR
+ISEMPTY
+ISCONTAIN value:Point(x=27.01, y=15.6, z=71.11)
+ISEMPTY
+REMOVE at:0
+ADD value:Point(x=10.09, y=34.58, z=87.94)
+GETINDEX value:Point(x=10.09, y=34.58, z=87.94)
+GETINDEX value:Point(x=10.09, y=34.58, z=87.94)
+CLEAR
+ADD value:Point(x=51.55, y=27.7, z=62.72)
+REMOVE at:0
+ISCONTAIN value:Point(x=77.0, y=33.41, z=34.14)
+ADD value:Point(x=99.35, y=14.59, z=92.97)
+REMOVE at:0
+ADD value:Point(x=77.63, y=39.23, z=65.01) at:1
+ISEMPTY
+CLEAR
+ADD value:Point(x=80.66, y=79.77, z=97.44)
+REMOVE at:11
+GETSIZE
+GETINDEX value:Point(x=80.66, y=79.77, z=97.44)
+REMOVE at:0
+CLEAR
+ADD value:Point(x=93.7, y=54.46, z=57.53)
+GETINDEX value:Point(x=93.7, y=54.46, z=57.53)

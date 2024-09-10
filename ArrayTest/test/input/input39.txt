@@ -1,0 +1,6 @@
+TYPE:Point
+ISCONTAIN value:Point(x=13.33, y=67.06, z=59.28)
+GETSIZE
+GETINDEX value:Point(x=6.39, y=37.12, z=62.69)
+GETINDEX value:Point(x=31.5, y=88.02, z=19.05)
+ISCONTAIN value:Point(x=16.93, y=88.68, z=44.96)

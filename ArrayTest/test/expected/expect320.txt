@@ -1,0 +1,169 @@
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before GETINDEX Point(x=54.79, y=46.5, z=4.46): 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ADD Point(x=96.56, y=99.27, z=28.3): 
+[]
+List state after ADD: 
+[P( 96.56, 99.27, 28.30)]
+List state before ISEMPTY : 
+[P( 96.56, 99.27, 28.30)]
+false
+List state after ISEMPTY: 
+[P( 96.56, 99.27, 28.30)]
+List state before REMOVE  at 0: 
+[P( 96.56, 99.27, 28.30)]
+List state after REMOVE: 
+[]
+List state before ADD Point(x=94.3, y=56.81, z=97.25): 
+[]
+List state after ADD: 
+[P( 94.30, 56.81, 97.25)]
+List state before GET  at 0: 
+[P( 94.30, 56.81, 97.25)]
+P( 94.30, 56.81, 97.25)
+List state after GET: 
+[P( 94.30, 56.81, 97.25)]
+List state before ISEMPTY : 
+[P( 94.30, 56.81, 97.25)]
+false
+List state after ISEMPTY: 
+[P( 94.30, 56.81, 97.25)]
+List state before ADD Point(x=37.3, y=30.87, z=72.39) at 0: 
+[P( 94.30, 56.81, 97.25)]
+List state after ADD: 
+[P( 37.30, 30.87, 72.39), P( 94.30, 56.81, 97.25)]
+List state before ADD Point(x=10.94, y=46.67, z=40.79) at 0: 
+[P( 37.30, 30.87, 72.39), P( 94.30, 56.81, 97.25)]
+List state after ADD: 
+[P( 10.94, 46.67, 40.79), P( 37.30, 30.87, 72.39), P( 94.30, 56.81, 97.25)]
+List state before GETSIZE : 
+[P( 10.94, 46.67, 40.79), P( 37.30, 30.87, 72.39), P( 94.30, 56.81, 97.25)]
+3
+List state after GETSIZE: 
+[P( 10.94, 46.67, 40.79), P( 37.30, 30.87, 72.39), P( 94.30, 56.81, 97.25)]
+List state before ADD Point(x=55.56, y=77.04, z=19.92) at 0: 
+[P( 10.94, 46.67, 40.79), P( 37.30, 30.87, 72.39), P( 94.30, 56.81, 97.25)]
+List state after ADD: 
+[P( 55.56, 77.04, 19.92), P( 10.94, 46.67, 40.79), P( 37.30, 30.87, 72.39), P( 94.30, 56.81, 97.25)]
+List state before ISCONTAIN Point(x=37.3, y=30.87, z=72.39): 
+[P( 55.56, 77.04, 19.92), P( 10.94, 46.67, 40.79), P( 37.30, 30.87, 72.39), P( 94.30, 56.81, 97.25)]
+true
+List state after ISCONTAIN: 
+[P( 55.56, 77.04, 19.92), P( 10.94, 46.67, 40.79), P( 37.30, 30.87, 72.39), P( 94.30, 56.81, 97.25)]
+List state before CLEAR : 
+[P( 55.56, 77.04, 19.92), P( 10.94, 46.67, 40.79), P( 37.30, 30.87, 72.39), P( 94.30, 56.81, 97.25)]
+List state after CLEAR: 
+[]
+List state before ADD Point(x=4.62, y=34.59, z=78.21): 
+[]
+List state after ADD: 
+[P(  4.62, 34.59, 78.21)]
+List state before ISCONTAIN Point(x=16.37, y=29.75, z=59.47): 
+[P(  4.62, 34.59, 78.21)]
+false
+List state after ISCONTAIN: 
+[P(  4.62, 34.59, 78.21)]
+List state before GETINDEX Point(x=4.62, y=34.59, z=78.21): 
+[P(  4.62, 34.59, 78.21)]
+0
+List state after GETINDEX: 
+[P(  4.62, 34.59, 78.21)]
+List state before ADD Point(x=18.12, y=7.12, z=39.9) at 0: 
+[P(  4.62, 34.59, 78.21)]
+List state after ADD: 
+[P( 18.12,  7.12, 39.90), P(  4.62, 34.59, 78.21)]
+List state before ADD Point(x=1.48, y=73.47, z=99.48) at 0: 
+[P( 18.12,  7.12, 39.90), P(  4.62, 34.59, 78.21)]
+List state after ADD: 
+[P(  1.48, 73.47, 99.48), P( 18.12,  7.12, 39.90), P(  4.62, 34.59, 78.21)]
+List state before CLEAR : 
+[P(  1.48, 73.47, 99.48), P( 18.12,  7.12, 39.90), P(  4.62, 34.59, 78.21)]
+List state after CLEAR: 
+[]
+List state before ADD Point(x=74.57, y=50.89, z=7.7) at 0: 
+[]
+List state after ADD: 
+[P( 74.57, 50.89,  7.70)]
+List state before GET  at 0: 
+[P( 74.57, 50.89,  7.70)]
+P( 74.57, 50.89,  7.70)
+List state after GET: 
+[P( 74.57, 50.89,  7.70)]
+List state before GET  at 0: 
+[P( 74.57, 50.89,  7.70)]
+P( 74.57, 50.89,  7.70)
+List state after GET: 
+[P( 74.57, 50.89,  7.70)]
+List state before ADD Point(x=28.01, y=32.44, z=63.97): 
+[P( 74.57, 50.89,  7.70)]
+List state after ADD: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97)]
+List state before GETSIZE : 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97)]
+2
+List state after GETSIZE: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97)]
+List state before ADD Point(x=52.88, y=30.56, z=71.85) at 2: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97)]
+List state after ADD: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 52.88, 30.56, 71.85)]
+List state before ADD Point(x=31.6, y=31.27, z=50.82) at 2: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 52.88, 30.56, 71.85)]
+List state after ADD: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85)]
+List state before ISCONTAIN Point(x=70.49, y=15.76, z=55.75): 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85)]
+false
+List state after ISCONTAIN: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85)]
+List state before GET  at 1: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85)]
+P( 28.01, 32.44, 63.97)
+List state after GET: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85)]
+List state before GETSIZE : 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85)]
+4
+List state after GETSIZE: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85)]
+List state before ISCONTAIN Point(x=74.57, y=50.89, z=7.7): 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85)]
+true
+List state after ISCONTAIN: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85)]
+List state before GET  at 1: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85)]
+P( 28.01, 32.44, 63.97)
+List state after GET: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85)]
+List state before ADD Point(x=45.15, y=17.42, z=87.02) at 4: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85)]
+List state after ADD: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85), P( 45.15, 17.42, 87.02)]
+List state before ISCONTAIN Point(x=31.6, y=31.27, z=50.82): 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85), P( 45.15, 17.42, 87.02)]
+true
+List state after ISCONTAIN: 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85), P( 45.15, 17.42, 87.02)]
+List state before CLEAR : 
+[P( 74.57, 50.89,  7.70), P( 28.01, 32.44, 63.97), P( 31.60, 31.27, 50.82), P( 52.88, 30.56, 71.85), P( 45.15, 17.42, 87.02)]
+List state after CLEAR: 
+[]
+List state before ADD Point(x=76.23, y=29.36, z=70.04) at 1: 
+[]
+Index is out of range!

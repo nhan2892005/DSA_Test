@@ -1,0 +1,83 @@
+TYPE:Point
+GETINDEX value:Point(x=15.26, y=19.86, z=61.76)
+ISCONTAIN value:Point(x=96.68, y=12.21, z=59.77)
+GETINDEX value:Point(x=7.72, y=56.92, z=64.86)
+GET at:0
+REMOVE at:0
+GETINDEX value:Point(x=31.02, y=91.48, z=40.36)
+ADD value:Point(x=81.03, y=77.08, z=19.42) at:0
+GET at:0
+ISCONTAIN value:Point(x=55.32, y=10.82, z=19.69)
+ISEMPTY
+ISEMPTY
+ADD value:Point(x=57.76, y=84.05, z=11.16) at:0
+ADD value:Point(x=14.44, y=55.07, z=66.38) at:1
+ADD value:Point(x=56.91, y=38.16, z=84.02)
+REMOVE at:3
+GET at:1
+GETSIZE
+REMOVE at:8
+GET at:0
+GETSIZE
+ADD value:Point(x=37.41, y=20.0, z=6.38) at:2
+GET at:3
+ISEMPTY
+ADD value:Point(x=73.1, y=40.14, z=33.26) at:2
+GETSIZE
+ADD value:Point(x=96.6, y=64.5, z=55.72) at:5
+ADD value:Point(x=4.21, y=6.62, z=34.49)
+ADD value:Point(x=79.39, y=65.92, z=72.31) at:3
+CLEAR
+CLEAR
+GETSIZE
+GETINDEX value:Point(x=26.43, y=84.04, z=14.16)
+ADD value:Point(x=54.04, y=81.44, z=86.63)
+REMOVE at:0
+CLEAR
+REMOVE at:0
+REMOVE at:0
+ISCONTAIN value:Point(x=72.28, y=91.56, z=30.68)
+REMOVE at:0
+ADD value:Point(x=10.11, y=98.58, z=98.11)
+REMOVE at:0
+REMOVE at:0
+ISCONTAIN value:Point(x=51.96, y=63.49, z=71.97)
+CLEAR
+REMOVE at:0
+REMOVE at:0
+REMOVE at:0
+CLEAR
+REMOVE at:0
+ISEMPTY
+ADD value:Point(x=94.83, y=96.05, z=42.12) at:0
+CLEAR
+GETINDEX value:Point(x=79.31, y=50.32, z=0.63)
+GET at:0
+ISCONTAIN value:Point(x=59.83, y=89.54, z=18.34)
+ISCONTAIN value:Point(x=38.71, y=81.51, z=85.24)
+GETINDEX value:Point(x=46.75, y=43.22, z=11.07)
+GETINDEX value:Point(x=19.62, y=76.5, z=27.35)
+ISCONTAIN value:Point(x=78.3, y=91.06, z=60.18)
+GETSIZE
+ADD value:Point(x=53.34, y=67.48, z=13.44)
+CLEAR
+GETSIZE
+ADD value:Point(x=85.3, y=95.06, z=74.81) at:1
+CLEAR
+REMOVE at:0
+ADD value:Point(x=32.02, y=27.48, z=89.71) at:1
+ADD value:Point(x=4.09, y=33.64, z=5.46)
+ADD value:Point(x=23.25, y=85.17, z=92.7) at:2
+GETINDEX value:Point(x=4.09, y=33.64, z=5.46)
+CLEAR
+REMOVE at:0
+CLEAR
+ISEMPTY
+GET at:0
+ADD value:Point(x=60.81, y=40.72, z=67.85) at:1
+CLEAR
+REMOVE at:0
+REMOVE at:0
+ISEMPTY
+ISEMPTY
+REMOVE at:0

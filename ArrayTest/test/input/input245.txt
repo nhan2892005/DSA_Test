@@ -1,0 +1,35 @@
+TYPE:chr
+CLEAR
+ADD value:i
+GET at:0
+ADD value:u at:0
+ADD value:p at:0
+REMOVE at:10
+ADD value:p
+ADD value:w at:2
+GET at:4
+ADD value:k at:3
+GET at:5
+GET at:0
+REMOVE at:1
+CLEAR
+GET at:0
+CLEAR
+REMOVE at:0
+ISCONTAIN value:z
+ADD value:j at:1
+GET at:0
+ADD value:e at:1
+ISEMPTY
+REMOVE at:4
+REMOVE at:7
+ADD value:o at:0
+CLEAR
+ADD value:a at:1
+ADD value:z
+ADD value:w at:1
+ISCONTAIN value:z
+REMOVE at:2
+GETINDEX value:z
+REMOVE value:j
+ADD value:l

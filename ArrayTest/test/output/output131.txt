@@ -1,0 +1,7 @@
+List state before ADD k: 
+[]
+List state after ADD: 
+[k]
+List state before REMOVE  at 11: 
+[k]
+Index is out of range

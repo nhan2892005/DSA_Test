@@ -1,0 +1,38 @@
+List state before ADD kkpof: 
+[]
+List state after ADD: 
+[kkpof]
+List state before ADD pfhpy at 0: 
+[kkpof]
+List state after ADD: 
+[pfhpy, kkpof]
+List state before ISEMPTY : 
+[pfhpy, kkpof]
+false
+List state after ISEMPTY: 
+[pfhpy, kkpof]
+List state before GET  at 0: 
+[pfhpy, kkpof]
+pfhpy
+List state after GET: 
+[pfhpy, kkpof]
+List state before REMOVE  at 0: 
+[pfhpy, kkpof]
+List state after REMOVE: 
+[kkpof]
+List state before ADD zolzs: 
+[kkpof]
+List state after ADD: 
+[kkpof, zolzs]
+List state before REMOVE zolzs: 
+[kkpof, zolzs]
+List state after REMOVE: 
+[kkpof]
+List state before ISEMPTY : 
+[kkpof]
+false
+List state after ISEMPTY: 
+[kkpof]
+List state before ADD hkken at 2: 
+[kkpof]
+Index is out of range

@@ -1,0 +1,101 @@
+List state before ISCONTAIN 84.83: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ISCONTAIN 27.8: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ADD 75.89 at 0: 
+[]
+List state after ADD: 
+[75.89]
+List state before ADD 30.18 at 0: 
+[75.89]
+List state after ADD: 
+[30.18, 75.89]
+List state before GETINDEX 35.71: 
+[30.18, 75.89]
+-1
+List state after GETINDEX: 
+[30.18, 75.89]
+List state before REMOVE  at 0: 
+[30.18, 75.89]
+List state after REMOVE: 
+[75.89]
+List state before GETSIZE : 
+[75.89]
+1
+List state after GETSIZE: 
+[75.89]
+List state before ISCONTAIN 5.61: 
+[75.89]
+false
+List state after ISCONTAIN: 
+[75.89]
+List state before GETSIZE : 
+[75.89]
+1
+List state after GETSIZE: 
+[75.89]
+List state before ADD 68.82: 
+[75.89]
+List state after ADD: 
+[75.89, 68.82]
+List state before REMOVE  at 0: 
+[75.89, 68.82]
+List state after REMOVE: 
+[68.82]
+List state before CLEAR : 
+[68.82]
+List state after CLEAR: 
+[]
+List state before ADD 24.63 at 0: 
+[]
+List state after ADD: 
+[24.63]
+List state before GETINDEX 24.63: 
+[24.63]
+0
+List state after GETINDEX: 
+[24.63]
+List state before ADD 48.14 at 1: 
+[24.63]
+List state after ADD: 
+[24.63, 48.14]
+List state before REMOVE  at 0: 
+[24.63, 48.14]
+List state after REMOVE: 
+[48.14]
+List state before GETINDEX 48.14: 
+[48.14]
+0
+List state after GETINDEX: 
+[48.14]
+List state before ISEMPTY : 
+[48.14]
+false
+List state after ISEMPTY: 
+[48.14]
+List state before ADD 45.85 at 0: 
+[48.14]
+List state after ADD: 
+[45.85, 48.14]
+List state before REMOVE 48.14: 
+[45.85, 48.14]
+List state after REMOVE: 
+[45.85]
+List state before CLEAR : 
+[45.85]
+List state after CLEAR: 
+[]
+List state before ISCONTAIN 1.4: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range

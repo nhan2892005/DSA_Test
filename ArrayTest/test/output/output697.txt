@@ -1,0 +1,12 @@
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before ADD hofch at 1: 
+[]
+Index is out of range

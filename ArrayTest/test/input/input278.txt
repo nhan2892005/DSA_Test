@@ -1,0 +1,40 @@
+TYPE:chr
+CLEAR
+ADD value:l at:0
+GETINDEX value:l
+ADD value:f at:1
+GETSIZE
+REMOVE at:9
+ISEMPTY
+ADD value:t at:1
+ADD value:h at:2
+GETSIZE
+GET at:1
+GETSIZE
+GETINDEX value:l
+CLEAR
+ADD value:d at:1
+ADD value:x at:1
+REMOVE value:h
+ISEMPTY
+ADD value:r at:1
+ADD value:z at:2
+GETSIZE
+ADD value:q
+GET at:3
+ADD value:z at:3
+ADD value:m at:4
+REMOVE at:14
+ADD value:o at:6
+ADD value:s at:0
+GET at:7
+ADD value:c
+GET at:0
+REMOVE at:0
+REMOVE at:12
+GET at:6
+GET at:0
+ADD value:t
+GETINDEX value:z
+ISEMPTY
+GETSIZE

@@ -1,0 +1,21 @@
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before GETINDEX odtlp: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ADD zikpo at 0: 
+[]
+List state after ADD: 
+[zikpo]
+List state before REMOVE  at 0: 
+[zikpo]
+List state after REMOVE: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range!

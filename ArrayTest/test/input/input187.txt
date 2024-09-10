@@ -1,0 +1,27 @@
+TYPE:str
+ADD value:teybd at:0
+GETSIZE
+ADD value:irgmg
+GET at:1
+ADD value:rfksb at:2
+REMOVE at:2
+ISEMPTY
+GETINDEX value:irgmg
+GETINDEX value:teybd
+GETSIZE
+GET at:1
+ISEMPTY
+ISEMPTY
+REMOVE value:irgmg
+ISEMPTY
+CLEAR
+CLEAR
+ADD value:lccfi at:1
+ADD value:utgnf at:0
+CLEAR
+ISCONTAIN value:buzdr
+CLEAR
+ISCONTAIN value:ldvec
+REMOVE at:0
+ISCONTAIN value:onras
+GET at:0

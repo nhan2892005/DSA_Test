@@ -1,0 +1,8 @@
+List state before GETINDEX wyvqz: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ADD sliiq at 1: 
+[]
+Index is out of range

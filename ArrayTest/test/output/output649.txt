@@ -1,0 +1,21 @@
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ADD 33: 
+[]
+List state after ADD: 
+[33]
+List state before GETSIZE : 
+[33]
+1
+List state after GETSIZE: 
+[33]
+List state before REMOVE  at 0: 
+[33]
+List state after REMOVE: 
+[]
+List state before ADD 40 at 1: 
+[]
+Index is out of range

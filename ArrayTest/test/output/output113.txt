@@ -1,0 +1,11 @@
+List state before ADD hlymw: 
+[]
+List state after ADD: 
+[hlymw]
+List state before CLEAR : 
+[hlymw]
+List state after CLEAR: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range

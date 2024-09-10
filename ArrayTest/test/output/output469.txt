@@ -1,0 +1,126 @@
+List state before ADD 81 at 0: 
+[]
+List state after ADD: 
+[81]
+List state before ISEMPTY : 
+[81]
+false
+List state after ISEMPTY: 
+[81]
+List state before CLEAR : 
+[81]
+List state after CLEAR: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD 27: 
+[]
+List state after ADD: 
+[27]
+List state before ADD 32 at 0: 
+[27]
+List state after ADD: 
+[32, 27]
+List state before ADD 3 at 2: 
+[32, 27]
+List state after ADD: 
+[32, 27, 3]
+List state before ISCONTAIN 27: 
+[32, 27, 3]
+true
+List state after ISCONTAIN: 
+[32, 27, 3]
+List state before ISCONTAIN 3: 
+[32, 27, 3]
+true
+List state after ISCONTAIN: 
+[32, 27, 3]
+List state before GET  at 0: 
+[32, 27, 3]
+32
+List state after GET: 
+[32, 27, 3]
+List state before REMOVE  at 1: 
+[32, 27, 3]
+List state after REMOVE: 
+[32, 3]
+List state before ADD 24 at 1: 
+[32, 3]
+List state after ADD: 
+[32, 24, 3]
+List state before ADD 94 at 3: 
+[32, 24, 3]
+List state after ADD: 
+[32, 24, 3, 94]
+List state before REMOVE  at 0: 
+[32, 24, 3, 94]
+List state after REMOVE: 
+[24, 3, 94]
+List state before ISCONTAIN 3: 
+[24, 3, 94]
+true
+List state after ISCONTAIN: 
+[24, 3, 94]
+List state before ISCONTAIN 3: 
+[24, 3, 94]
+true
+List state after ISCONTAIN: 
+[24, 3, 94]
+List state before GETSIZE : 
+[24, 3, 94]
+3
+List state after GETSIZE: 
+[24, 3, 94]
+List state before REMOVE  at 2: 
+[24, 3, 94]
+List state after REMOVE: 
+[24, 3]
+List state before ADD 38 at 2: 
+[24, 3]
+List state after ADD: 
+[24, 3, 38]
+List state before GET  at 1: 
+[24, 3, 38]
+3
+List state after GET: 
+[24, 3, 38]
+List state before REMOVE  at 0: 
+[24, 3, 38]
+List state after REMOVE: 
+[3, 38]
+List state before GETSIZE : 
+[3, 38]
+2
+List state after GETSIZE: 
+[3, 38]
+List state before ISCONTAIN 24: 
+[3, 38]
+false
+List state after ISCONTAIN: 
+[3, 38]
+List state before REMOVE  at 0: 
+[3, 38]
+List state after REMOVE: 
+[38]
+List state before ADD 97: 
+[38]
+List state after ADD: 
+[38, 97]
+List state before ADD 2 at 2: 
+[38, 97]
+List state after ADD: 
+[38, 97, 2]
+List state before ISCONTAIN 97: 
+[38, 97, 2]
+true
+List state after ISCONTAIN: 
+[38, 97, 2]
+List state before ADD 41: 
+[38, 97, 2]
+List state after ADD: 
+[38, 97, 2, 41]
+List state before REMOVE  at 4: 
+[38, 97, 2, 41]
+Index is out of range

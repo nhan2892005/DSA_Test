@@ -1,0 +1,76 @@
+TYPE:str
+REMOVE at:0
+ADD value:pxnne
+ADD value:jpgud at:1
+ADD value:zxjxg
+GETINDEX value:zxjxg
+GETSIZE
+GETINDEX value:pxnne
+ADD value:dblff at:0
+ADD value:cyjop
+ADD value:fdezi
+CLEAR
+GETSIZE
+GETSIZE
+ADD value:gbfpt
+REMOVE value:dblff
+REMOVE at:0
+GETINDEX value:vpqco
+ISCONTAIN value:fbsei
+ADD value:dzcfe
+ADD value:ppykl
+GET at:1
+ISCONTAIN value:evcmw
+GETSIZE
+CLEAR
+ADD value:aoljp
+ISEMPTY
+ISCONTAIN value:qfdci
+REMOVE at:0
+CLEAR
+GET at:0
+GETINDEX value:yrbvy
+ADD value:aqzpa at:1
+ADD value:mkkzq at:0
+ADD value:jwbzq at:0
+CLEAR
+ISEMPTY
+GET at:0
+GETINDEX value:goklx
+ADD value:zapie at:0
+CLEAR
+ISCONTAIN value:rysba
+GETSIZE
+ADD value:rxrba at:1
+ISCONTAIN value:rxrba
+REMOVE at:4
+GETSIZE
+ADD value:jiiaf at:0
+GETINDEX value:rxrba
+REMOVE at:0
+ISEMPTY
+ADD value:yvnld
+ADD value:jqiif at:1
+ISCONTAIN value:lhqlt
+ADD value:yyzsd at:3
+GETSIZE
+ADD value:qxood at:0
+GETSIZE
+ADD value:aesvd at:1
+GETINDEX value:ukusd
+GETSIZE
+ADD value:ysbjb
+ADD value:kmktt
+ADD value:srmri at:0
+REMOVE at:0
+ADD value:memir
+GETSIZE
+ADD value:sljvb
+ADD value:gzqmd at:1
+CLEAR
+ADD value:bmcir
+GETSIZE
+ADD value:wgrcy
+GET at:1
+ADD value:xrube at:2
+GET at:0

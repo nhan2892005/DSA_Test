@@ -1,0 +1,7 @@
+TYPE:int
+GETINDEX value:57
+GET at:0
+GET at:0
+CLEAR
+GETSIZE
+ADD value:82 at:0

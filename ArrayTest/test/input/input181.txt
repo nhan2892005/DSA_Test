@@ -1,0 +1,26 @@
+TYPE:str
+CLEAR
+GETSIZE
+GETSIZE
+GET at:0
+GETINDEX value:plhto
+REMOVE at:0
+ADD value:uokae at:1
+GETINDEX value:ovobq
+REMOVE at:0
+REMOVE at:0
+GET at:0
+CLEAR
+ADD value:eydpg at:1
+REMOVE at:0
+GETINDEX value:qaawb
+CLEAR
+GETSIZE
+GETSIZE
+ADD value:gnrnd at:1
+ISCONTAIN value:gnrnd
+ADD value:rnkoq
+ISEMPTY
+ADD value:pwgjx at:0
+GET at:0
+ISEMPTY

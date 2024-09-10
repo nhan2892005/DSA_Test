@@ -1,0 +1,8 @@
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ADD Point(x=15.82, y=26.0, z=4.01) at 1: 
+[]
+Index is out of range!

@@ -1,0 +1,16 @@
+TYPE:chr
+ADD value:z at:0
+CLEAR
+ADD value:d
+GET at:0
+GET at:0
+ADD value:q at:0
+ISEMPTY
+ISEMPTY
+ISEMPTY
+CLEAR
+GET at:0
+ADD value:v at:1
+ADD value:q at:0
+ADD value:n at:1
+ISCONTAIN value:k

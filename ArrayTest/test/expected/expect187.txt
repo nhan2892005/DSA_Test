@@ -1,0 +1,81 @@
+List state before ADD teybd at 0: 
+[]
+List state after ADD: 
+[teybd]
+List state before GETSIZE : 
+[teybd]
+1
+List state after GETSIZE: 
+[teybd]
+List state before ADD irgmg: 
+[teybd]
+List state after ADD: 
+[teybd, irgmg]
+List state before GET  at 1: 
+[teybd, irgmg]
+irgmg
+List state after GET: 
+[teybd, irgmg]
+List state before ADD rfksb at 2: 
+[teybd, irgmg]
+List state after ADD: 
+[teybd, irgmg, rfksb]
+List state before REMOVE  at 2: 
+[teybd, irgmg, rfksb]
+List state after REMOVE: 
+[teybd, irgmg]
+List state before ISEMPTY : 
+[teybd, irgmg]
+false
+List state after ISEMPTY: 
+[teybd, irgmg]
+List state before GETINDEX irgmg: 
+[teybd, irgmg]
+1
+List state after GETINDEX: 
+[teybd, irgmg]
+List state before GETINDEX teybd: 
+[teybd, irgmg]
+0
+List state after GETINDEX: 
+[teybd, irgmg]
+List state before GETSIZE : 
+[teybd, irgmg]
+2
+List state after GETSIZE: 
+[teybd, irgmg]
+List state before GET  at 1: 
+[teybd, irgmg]
+irgmg
+List state after GET: 
+[teybd, irgmg]
+List state before ISEMPTY : 
+[teybd, irgmg]
+false
+List state after ISEMPTY: 
+[teybd, irgmg]
+List state before ISEMPTY : 
+[teybd, irgmg]
+false
+List state after ISEMPTY: 
+[teybd, irgmg]
+List state before REMOVE irgmg: 
+[teybd, irgmg]
+List state after REMOVE: 
+[teybd]
+List state before ISEMPTY : 
+[teybd]
+false
+List state after ISEMPTY: 
+[teybd]
+List state before CLEAR : 
+[teybd]
+List state after CLEAR: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD lccfi at 1: 
+[]
+Index is out of range!

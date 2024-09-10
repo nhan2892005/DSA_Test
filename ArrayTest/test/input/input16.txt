@@ -1,0 +1,3 @@
+TYPE:int
+ISCONTAIN value:49
+ADD value:12 at:1

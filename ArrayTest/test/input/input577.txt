@@ -1,0 +1,83 @@
+TYPE:Point
+REMOVE at:0
+GETSIZE
+ADD value:Point(x=73.45, y=54.44, z=21.46)
+GET at:0
+GETINDEX value:Point(x=73.45, y=54.44, z=21.46)
+CLEAR
+ADD value:Point(x=53.74, y=29.06, z=15.91) at:0
+ADD value:Point(x=74.54, y=9.79, z=31.45) at:1
+CLEAR
+GET at:0
+ADD value:Point(x=27.14, y=60.73, z=44.0) at:0
+GET at:0
+ISCONTAIN value:Point(x=27.14, y=60.73, z=44.0)
+GETSIZE
+REMOVE at:0
+REMOVE at:0
+ISEMPTY
+ISCONTAIN value:Point(x=2.11, y=91.03, z=7.33)
+ISCONTAIN value:Point(x=3.37, y=87.43, z=42.18)
+ADD value:Point(x=51.85, y=28.2, z=31.78)
+GET at:0
+CLEAR
+ADD value:Point(x=11.12, y=54.01, z=54.25)
+ADD value:Point(x=6.35, y=97.01, z=30.41) at:0
+GET at:1
+ADD value:Point(x=98.98, y=11.27, z=71.01) at:1
+ADD value:Point(x=10.75, y=59.14, z=81.64) at:0
+ADD value:Point(x=33.38, y=30.1, z=97.72) at:0
+REMOVE at:0
+GETSIZE
+ADD value:Point(x=74.38, y=51.89, z=36.42)
+REMOVE value:Point(x=11.12, y=54.01, z=54.25)
+REMOVE value:Point(x=74.38, y=51.89, z=36.42)
+ADD value:Point(x=73.63, y=15.82, z=7.11)
+ISCONTAIN value:Point(x=23.17, y=98.32, z=17.55)
+ADD value:Point(x=95.31, y=71.1, z=29.47)
+GET at:3
+GETSIZE
+ISCONTAIN value:Point(x=73.63, y=15.82, z=7.11)
+ADD value:Point(x=32.72, y=78.4, z=91.96) at:2
+REMOVE at:0
+GETSIZE
+CLEAR
+ISEMPTY
+GET at:0
+ADD value:Point(x=99.81, y=25.54, z=29.38)
+ADD value:Point(x=81.71, y=62.79, z=86.07) at:1
+REMOVE at:1
+ISEMPTY
+REMOVE at:0
+ISEMPTY
+ADD value:Point(x=65.79, y=49.18, z=46.56) at:0
+ISCONTAIN value:Point(x=65.79, y=49.18, z=46.56)
+ADD value:Point(x=97.54, y=0.71, z=5.91) at:1
+ADD value:Point(x=80.97, y=98.16, z=9.09) at:1
+ISCONTAIN value:Point(x=65.79, y=49.18, z=46.56)
+REMOVE at:11
+GETINDEX value:Point(x=82.35, y=26.91, z=31.9)
+REMOVE value:Point(x=74.38, y=51.89, z=36.42)
+ADD value:Point(x=75.12, y=11.85, z=59.04) at:2
+GETINDEX value:Point(x=75.12, y=11.85, z=59.04)
+ISEMPTY
+CLEAR
+REMOVE at:0
+ISEMPTY
+REMOVE at:0
+GETSIZE
+GETSIZE
+ADD value:Point(x=78.71, y=28.0, z=55.15) at:1
+ADD value:Point(x=70.64, y=88.56, z=59.57) at:1
+ADD value:Point(x=6.15, y=30.24, z=33.04) at:1
+REMOVE at:7
+ADD value:Point(x=65.04, y=53.85, z=90.2) at:0
+REMOVE at:10
+ADD value:Point(x=48.07, y=10.66, z=18.34) at:1
+ISCONTAIN value:Point(x=6.15, y=30.24, z=33.04)
+ADD value:Point(x=79.6, y=30.87, z=79.65) at:5
+ADD value:Point(x=79.81, y=40.11, z=76.92) at:2
+ISCONTAIN value:Point(x=79.81, y=40.11, z=76.92)
+ADD value:Point(x=77.34, y=1.89, z=15.22) at:2
+GETINDEX value:Point(x=65.04, y=53.85, z=90.2)
+ADD value:Point(x=95.5, y=87.07, z=31.73)

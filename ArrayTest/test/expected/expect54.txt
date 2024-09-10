@@ -1,0 +1,33 @@
+List state before ADD 45.85: 
+[]
+List state after ADD: 
+[45.85]
+List state before GETSIZE : 
+[45.85]
+1
+List state after GETSIZE: 
+[45.85]
+List state before GET  at 0: 
+[45.85]
+45.85
+List state after GET: 
+[45.85]
+List state before GET  at 0: 
+[45.85]
+45.85
+List state after GET: 
+[45.85]
+List state before GET  at 0: 
+[45.85]
+45.85
+List state after GET: 
+[45.85]
+List state before ADD 53.06 at 1: 
+[45.85]
+List state after ADD: 
+[45.85, 53.06]
+List state before ISCONTAIN 53.06: 
+[45.85, 53.06]
+true
+List state after ISCONTAIN: 
+[45.85, 53.06]

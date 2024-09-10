@@ -1,0 +1,15 @@
+List state before ADD 43 at 0: 
+[]
+List state after ADD: 
+[43]
+List state before REMOVE  at 0: 
+[43]
+List state after REMOVE: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range

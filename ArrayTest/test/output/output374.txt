@@ -1,0 +1,30 @@
+List state before ADD 50.82: 
+[]
+List state after ADD: 
+[50.82]
+List state before ADD 98.77: 
+[50.82]
+List state after ADD: 
+[50.82, 98.77]
+List state before CLEAR : 
+[50.82, 98.77]
+List state after CLEAR: 
+[]
+List state before ISCONTAIN 37.7: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before GETINDEX 32.12: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range

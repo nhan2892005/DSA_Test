@@ -1,0 +1,3 @@
+List state before ADD Point(x=83.14, y=58.7, z=73.23) at 1: 
+[]
+Index is out of range

@@ -1,0 +1,33 @@
+TYPE:str
+REMOVE at:0
+REMOVE at:0
+CLEAR
+ADD value:qbigp at:1
+GETSIZE
+GETSIZE
+ADD value:mkrej at:0
+ADD value:zhsow at:0
+REMOVE at:0
+GETSIZE
+REMOVE at:0
+ISEMPTY
+ADD value:fvyel at:0
+GETSIZE
+ISCONTAIN value:fvyel
+GETINDEX value:zhsow
+ADD value:omnmf at:2
+ADD value:arqlc at:3
+CLEAR
+GETSIZE
+ADD value:mnouf
+CLEAR
+REMOVE at:0
+GET at:0
+ADD value:dtpar at:0
+GETSIZE
+ADD value:wnrwc at:1
+ADD value:pgymm at:2
+GETSIZE
+ADD value:coqwe at:0
+GET at:0
+ISEMPTY

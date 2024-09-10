@@ -1,0 +1,88 @@
+TYPE:float
+ISEMPTY
+GETINDEX value:84.16
+ADD value:23.97 at:1
+REMOVE at:0
+GETINDEX value:91.94
+GETINDEX value:15.07
+ADD value:17.27 at:1
+ADD value:69.18
+ADD value:25.94 at:0
+ADD value:89.76
+REMOVE at:3
+ADD value:62.49 at:3
+ADD value:10.71
+ADD value:12.53 at:4
+GETSIZE
+REMOVE at:8
+ADD value:62.94
+GET at:3
+GET at:2
+ADD value:46.45
+REMOVE at:0
+ISEMPTY
+ISEMPTY
+ISEMPTY
+REMOVE at:6
+REMOVE at:5
+GETSIZE
+CLEAR
+ADD value:56.24 at:0
+ISEMPTY
+REMOVE at:0
+GETINDEX value:93.07
+REMOVE at:0
+ISCONTAIN value:70.42
+GETINDEX value:38.62
+ADD value:19.09
+REMOVE at:6
+REMOVE value:12.53
+ISCONTAIN value:19.09
+ISEMPTY
+REMOVE at:6
+ISEMPTY
+REMOVE at:0
+GET at:0
+ADD value:21.88
+REMOVE at:6
+ADD value:62.23
+GETINDEX value:21.88
+ADD value:55.06
+CLEAR
+GET at:0
+GETINDEX value:13.26
+ISCONTAIN value:89.85
+GETSIZE
+ADD value:94.05 at:1
+REMOVE at:1
+GET at:0
+CLEAR
+ISCONTAIN value:16.96
+ADD value:68.95 at:1
+ISCONTAIN value:68.95
+GETINDEX value:68.95
+ADD value:72.22 at:0
+GETSIZE
+ADD value:19.25 at:1
+GETSIZE
+ISEMPTY
+REMOVE at:0
+ISCONTAIN value:19.25
+GETSIZE
+REMOVE at:1
+ADD value:70.07 at:1
+GET at:0
+ADD value:48.95 at:2
+ISEMPTY
+GET at:1
+GETSIZE
+ADD value:55.29 at:3
+REMOVE at:0
+ADD value:39.05 at:3
+REMOVE at:0
+CLEAR
+ADD value:31.25 at:1
+REMOVE at:0
+ISEMPTY
+ADD value:41.71 at:0
+ADD value:88.26 at:1

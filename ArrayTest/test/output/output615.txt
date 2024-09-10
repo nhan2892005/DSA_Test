@@ -1,0 +1,41 @@
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ADD Point(x=4.21, y=55.58, z=37.88) at 0: 
+[]
+List state after ADD: 
+[P(  4.21, 55.58, 37.88)]
+List state before GETSIZE : 
+[P(  4.21, 55.58, 37.88)]
+1
+List state after GETSIZE: 
+[P(  4.21, 55.58, 37.88)]
+List state before ISCONTAIN Point(x=4.21, y=55.58, z=37.88): 
+[P(  4.21, 55.58, 37.88)]
+true
+List state after ISCONTAIN: 
+[P(  4.21, 55.58, 37.88)]
+List state before GET  at 0: 
+[P(  4.21, 55.58, 37.88)]
+P(  4.21, 55.58, 37.88)
+List state after GET: 
+[P(  4.21, 55.58, 37.88)]
+List state before CLEAR : 
+[P(  4.21, 55.58, 37.88)]
+List state after CLEAR: 
+[]
+List state before ISCONTAIN Point(x=21.91, y=82.7, z=29.39): 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ADD Point(x=13.83, y=4.59, z=52.28) at 1: 
+[]
+Index is out of range

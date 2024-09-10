@@ -1,0 +1,16 @@
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ADD l: 
+[]
+List state after ADD: 
+[l]
+List state before REMOVE  at 0: 
+[l]
+List state after REMOVE: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range!

@@ -1,0 +1,7 @@
+TYPE:Point
+GETSIZE
+GETINDEX value:Point(x=93.51, y=40.48, z=87.95)
+CLEAR
+REMOVE at:0
+GET at:0
+ADD value:Point(x=89.58, y=39.92, z=4.74) at:0

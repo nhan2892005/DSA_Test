@@ -1,0 +1,6 @@
+TYPE:chr
+ISCONTAIN value:v
+ISCONTAIN value:b
+GETINDEX value:l
+ISEMPTY
+ADD value:j at:1

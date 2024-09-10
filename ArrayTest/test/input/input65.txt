@@ -1,0 +1,10 @@
+TYPE:int
+CLEAR
+REMOVE at:0
+ADD value:48
+GETINDEX value:48
+GETINDEX value:2
+GETINDEX value:48
+ISCONTAIN value:48
+CLEAR
+ADD value:36 at:1

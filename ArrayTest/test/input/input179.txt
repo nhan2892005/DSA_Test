@@ -1,0 +1,26 @@
+TYPE:int
+GET at:0
+REMOVE at:0
+ISCONTAIN value:70
+ADD value:38 at:0
+CLEAR
+GETSIZE
+REMOVE at:0
+REMOVE at:0
+ADD value:5 at:1
+REMOVE at:0
+ISCONTAIN value:95
+GETSIZE
+CLEAR
+GETINDEX value:81
+CLEAR
+ISEMPTY
+ISEMPTY
+ADD value:49 at:0
+ISEMPTY
+GET at:0
+ADD value:84 at:1
+REMOVE at:0
+ADD value:68 at:0
+ADD value:24 at:0
+ADD value:98 at:1

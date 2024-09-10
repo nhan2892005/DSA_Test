@@ -1,0 +1,5 @@
+TYPE:Point
+ISEMPTY
+ISCONTAIN value:Point(x=61.47, y=1.16, z=76.97)
+GET at:0
+ADD value:Point(x=44.04, y=11.06, z=71.53) at:1

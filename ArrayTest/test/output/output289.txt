@@ -1,0 +1,25 @@
+List state before ADD mqcbj: 
+[]
+List state after ADD: 
+[mqcbj]
+List state before ISEMPTY : 
+[mqcbj]
+false
+List state after ISEMPTY: 
+[mqcbj]
+List state before REMOVE mqcbj: 
+[mqcbj]
+List state after REMOVE: 
+[]
+List state before REMOVE mqcbj: 
+[]
+List state after REMOVE: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range

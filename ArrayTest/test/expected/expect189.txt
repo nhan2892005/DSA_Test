@@ -1,0 +1,65 @@
+List state before ADD Point(x=91.19, y=77.64, z=72.67): 
+[]
+List state after ADD: 
+[P( 91.19, 77.64, 72.67)]
+List state before GET  at 0: 
+[P( 91.19, 77.64, 72.67)]
+P( 91.19, 77.64, 72.67)
+List state after GET: 
+[P( 91.19, 77.64, 72.67)]
+List state before GETSIZE : 
+[P( 91.19, 77.64, 72.67)]
+1
+List state after GETSIZE: 
+[P( 91.19, 77.64, 72.67)]
+List state before REMOVE  at 0: 
+[P( 91.19, 77.64, 72.67)]
+List state after REMOVE: 
+[]
+List state before ADD Point(x=77.19, y=7.51, z=16.9): 
+[]
+List state after ADD: 
+[P( 77.19,  7.51, 16.90)]
+List state before GETSIZE : 
+[P( 77.19,  7.51, 16.90)]
+1
+List state after GETSIZE: 
+[P( 77.19,  7.51, 16.90)]
+List state before GET  at 0: 
+[P( 77.19,  7.51, 16.90)]
+P( 77.19,  7.51, 16.90)
+List state after GET: 
+[P( 77.19,  7.51, 16.90)]
+List state before GET  at 0: 
+[P( 77.19,  7.51, 16.90)]
+P( 77.19,  7.51, 16.90)
+List state after GET: 
+[P( 77.19,  7.51, 16.90)]
+List state before ADD Point(x=19.31, y=37.04, z=72.86) at 0: 
+[P( 77.19,  7.51, 16.90)]
+List state after ADD: 
+[P( 19.31, 37.04, 72.86), P( 77.19,  7.51, 16.90)]
+List state before ISEMPTY : 
+[P( 19.31, 37.04, 72.86), P( 77.19,  7.51, 16.90)]
+false
+List state after ISEMPTY: 
+[P( 19.31, 37.04, 72.86), P( 77.19,  7.51, 16.90)]
+List state before ADD Point(x=75.34, y=34.81, z=24.0) at 1: 
+[P( 19.31, 37.04, 72.86), P( 77.19,  7.51, 16.90)]
+List state after ADD: 
+[P( 19.31, 37.04, 72.86), P( 75.34, 34.81, 24.00), P( 77.19,  7.51, 16.90)]
+List state before CLEAR : 
+[P( 19.31, 37.04, 72.86), P( 75.34, 34.81, 24.00), P( 77.19,  7.51, 16.90)]
+List state after CLEAR: 
+[]
+List state before ADD Point(x=86.42, y=95.59, z=19.04) at 0: 
+[]
+List state after ADD: 
+[P( 86.42, 95.59, 19.04)]
+List state before REMOVE Point(x=91.19, y=77.64, z=72.67): 
+[P( 86.42, 95.59, 19.04)]
+List state after REMOVE: 
+[P( 86.42, 95.59, 19.04)]
+List state before REMOVE  at 8: 
+[P( 86.42, 95.59, 19.04)]
+Index is out of range!

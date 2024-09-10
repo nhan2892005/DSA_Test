@@ -1,0 +1,19 @@
+TYPE:Point
+CLEAR
+ADD value:Point(x=79.11, y=10.5, z=48.32)
+REMOVE at:0
+ADD value:Point(x=6.38, y=29.17, z=79.01) at:0
+ISCONTAIN value:Point(x=53.39, y=17.38, z=77.12)
+ADD value:Point(x=46.66, y=48.1, z=63.02) at:0
+REMOVE at:8
+GETSIZE
+CLEAR
+ISEMPTY
+CLEAR
+ADD value:Point(x=60.01, y=29.07, z=88.1) at:1
+REMOVE at:1
+ADD value:Point(x=34.61, y=54.47, z=8.76) at:0
+GET at:0
+GETSIZE
+ISEMPTY
+CLEAR

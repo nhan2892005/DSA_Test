@@ -1,0 +1,39 @@
+List state before ADD f: 
+[]
+List state after ADD: 
+[f]
+List state before CLEAR : 
+[f]
+List state after CLEAR: 
+[]
+List state before ADD e at 0: 
+[]
+List state after ADD: 
+[e]
+List state before GET  at 0: 
+[e]
+e
+List state after GET: 
+[e]
+List state before GETINDEX e: 
+[e]
+0
+List state after GETINDEX: 
+[e]
+List state before ISEMPTY : 
+[e]
+false
+List state after ISEMPTY: 
+[e]
+List state before REMOVE  at 0: 
+[e]
+List state after REMOVE: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ADD t at 1: 
+[]
+Index is out of range!

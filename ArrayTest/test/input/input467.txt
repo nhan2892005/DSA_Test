@@ -1,0 +1,67 @@
+TYPE:Point
+GET at:0
+GETSIZE
+ADD value:Point(x=92.08, y=50.15, z=51.95) at:1
+ADD value:Point(x=12.44, y=79.02, z=75.09) at:1
+ISEMPTY
+ADD value:Point(x=71.34, y=80.41, z=61.33) at:1
+GETINDEX value:Point(x=92.08, y=50.15, z=51.95)
+ADD value:Point(x=73.12, y=86.65, z=96.17)
+REMOVE at:3
+GETINDEX value:Point(x=71.34, y=80.41, z=61.33)
+GETINDEX value:Point(x=79.31, y=91.6, z=10.99)
+ADD value:Point(x=16.4, y=0.28, z=35.28) at:0
+CLEAR
+REMOVE at:0
+ADD value:Point(x=27.86, y=46.63, z=32.68)
+ADD value:Point(x=79.48, y=44.69, z=77.65) at:1
+ISCONTAIN value:Point(x=27.86, y=46.63, z=32.68)
+REMOVE at:0
+ISEMPTY
+GETSIZE
+CLEAR
+ADD value:Point(x=26.89, y=41.48, z=19.26) at:0
+REMOVE at:0
+CLEAR
+ISEMPTY
+GETINDEX value:Point(x=76.6, y=92.89, z=42.7)
+GETSIZE
+ISCONTAIN value:Point(x=31.62, y=45.08, z=60.52)
+ISEMPTY
+GETINDEX value:Point(x=50.47, y=38.64, z=7.65)
+GETINDEX value:Point(x=36.18, y=33.22, z=53.4)
+ADD value:Point(x=92.59, y=65.97, z=42.97) at:1
+GETINDEX value:Point(x=92.59, y=65.97, z=42.97)
+ADD value:Point(x=6.12, y=76.79, z=1.2) at:1
+ADD value:Point(x=22.27, y=31.02, z=97.26) at:2
+ADD value:Point(x=0.05, y=61.85, z=19.78) at:0
+REMOVE at:0
+ISCONTAIN value:Point(x=0.05, y=61.85, z=19.78)
+ADD value:Point(x=47.37, y=25.61, z=52.71) at:3
+ISEMPTY
+REMOVE at:3
+ADD value:Point(x=34.01, y=4.09, z=82.7) at:1
+GETSIZE
+ADD value:Point(x=51.5, y=1.02, z=88.96)
+ADD value:Point(x=21.3, y=70.28, z=29.21) at:2
+ISCONTAIN value:Point(x=34.01, y=4.09, z=82.7)
+ADD value:Point(x=91.53, y=80.49, z=11.12)
+GETSIZE
+REMOVE at:0
+GETSIZE
+GETSIZE
+ISEMPTY
+REMOVE at:5
+ADD value:Point(x=8.65, y=38.07, z=12.95) at:4
+ADD value:Point(x=12.3, y=78.32, z=20.81)
+GET at:3
+ISCONTAIN value:Point(x=51.56, y=41.25, z=35.86)
+GET at:6
+ADD value:Point(x=68.72, y=35.44, z=68.08)
+GET at:7
+ISCONTAIN value:Point(x=57.74, y=57.68, z=78.53)
+REMOVE at:0
+ADD value:Point(x=28.04, y=15.79, z=82.65) at:2
+GETINDEX value:Point(x=0.05, y=61.85, z=19.78)
+ADD value:Point(x=86.62, y=63.61, z=36.92) at:3
+REMOVE value:Point(x=71.34, y=80.41, z=61.33)

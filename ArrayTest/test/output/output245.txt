@@ -1,0 +1,24 @@
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD i: 
+[]
+List state after ADD: 
+[i]
+List state before GET  at 0: 
+[i]
+i
+List state after GET: 
+[i]
+List state before ADD u at 0: 
+[i]
+List state after ADD: 
+[u, i]
+List state before ADD p at 0: 
+[u, i]
+List state after ADD: 
+[p, u, i]
+List state before REMOVE  at 10: 
+[p, u, i]
+Index is out of range

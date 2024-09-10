@@ -1,0 +1,127 @@
+List state before ISCONTAIN 32: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ADD 15 at 0: 
+[]
+List state after ADD: 
+[15]
+List state before GET  at 0: 
+[15]
+15
+List state after GET: 
+[15]
+List state before CLEAR : 
+[15]
+List state after CLEAR: 
+[]
+List state before GETINDEX 75: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ADD 55: 
+[]
+List state after ADD: 
+[55]
+List state before ISEMPTY : 
+[55]
+false
+List state after ISEMPTY: 
+[55]
+List state before GETINDEX 55: 
+[55]
+0
+List state after GETINDEX: 
+[55]
+List state before GETINDEX 17: 
+[55]
+-1
+List state after GETINDEX: 
+[55]
+List state before ADD 16 at 1: 
+[55]
+List state after ADD: 
+[55, 16]
+List state before ADD 16: 
+[55, 16]
+List state after ADD: 
+[55, 16, 16]
+List state before ADD 78 at 0: 
+[55, 16, 16]
+List state after ADD: 
+[78, 55, 16, 16]
+List state before ISCONTAIN 55: 
+[78, 55, 16, 16]
+true
+List state after ISCONTAIN: 
+[78, 55, 16, 16]
+List state before GETINDEX 16: 
+[78, 55, 16, 16]
+2
+List state after GETINDEX: 
+[78, 55, 16, 16]
+List state before REMOVE  at 0: 
+[78, 55, 16, 16]
+List state after REMOVE: 
+[55, 16, 16]
+List state before GETSIZE : 
+[55, 16, 16]
+3
+List state after GETSIZE: 
+[55, 16, 16]
+List state before REMOVE 15: 
+[55, 16, 16]
+List state after REMOVE: 
+[55, 16, 16]
+List state before REMOVE  at 0: 
+[55, 16, 16]
+List state after REMOVE: 
+[16, 16]
+List state before CLEAR : 
+[16, 16]
+List state after CLEAR: 
+[]
+List state before ADD 39 at 0: 
+[]
+List state after ADD: 
+[39]
+List state before ADD 57 at 0: 
+[39]
+List state after ADD: 
+[57, 39]
+List state before REMOVE  at 1: 
+[57, 39]
+List state after REMOVE: 
+[57]
+List state before GETSIZE : 
+[57]
+1
+List state after GETSIZE: 
+[57]
+List state before ADD 56 at 0: 
+[57]
+List state after ADD: 
+[56, 57]
+List state before CLEAR : 
+[56, 57]
+List state after CLEAR: 
+[]
+List state before GETINDEX 2: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range!

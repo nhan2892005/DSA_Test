@@ -1,0 +1,55 @@
+List state before ADD d: 
+[]
+List state after ADD: 
+[d]
+List state before GETSIZE : 
+[d]
+1
+List state after GETSIZE: 
+[d]
+List state before ISCONTAIN d: 
+[d]
+true
+List state after ISCONTAIN: 
+[d]
+List state before ADD b at 0: 
+[d]
+List state after ADD: 
+[b, d]
+List state before ADD f at 1: 
+[b, d]
+List state after ADD: 
+[b, f, d]
+List state before GETINDEX b: 
+[b, f, d]
+0
+List state after GETINDEX: 
+[b, f, d]
+List state before REMOVE f: 
+[b, f, d]
+List state after REMOVE: 
+[b, d]
+List state before CLEAR : 
+[b, d]
+List state after CLEAR: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD p: 
+[]
+List state after ADD: 
+[p]
+List state before ISCONTAIN p: 
+[p]
+true
+List state after ISCONTAIN: 
+[p]
+List state before REMOVE  at 0: 
+[p]
+List state after REMOVE: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range

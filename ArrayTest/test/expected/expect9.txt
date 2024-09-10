@@ -1,0 +1,4 @@
+List state before ADD Point(x=66.42, y=96.39, z=86.19) at 0: 
+[]
+List state after ADD: 
+[P( 66.42, 96.39, 86.19)]

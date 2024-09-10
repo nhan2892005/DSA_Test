@@ -1,0 +1,56 @@
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before ADD 26.65 at 0: 
+[]
+List state after ADD: 
+[26.65]
+List state before REMOVE  at 0: 
+[26.65]
+List state after REMOVE: 
+[]
+List state before ADD 53.1 at 0: 
+[]
+List state after ADD: 
+[53.1]
+List state before GETSIZE : 
+[53.1]
+1
+List state after GETSIZE: 
+[53.1]
+List state before REMOVE  at 0: 
+[53.1]
+List state after REMOVE: 
+[]
+List state before ADD 0.19: 
+[]
+List state after ADD: 
+[0.19]
+List state before ADD 39.22 at 1: 
+[0.19]
+List state after ADD: 
+[0.19, 39.22]
+List state before GETSIZE : 
+[0.19, 39.22]
+2
+List state after GETSIZE: 
+[0.19, 39.22]
+List state before CLEAR : 
+[0.19, 39.22]
+List state after CLEAR: 
+[]
+List state before GETINDEX 12.92: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range!

@@ -1,0 +1,50 @@
+List state before ADD p: 
+[]
+List state after ADD: 
+[p]
+List state before ISEMPTY : 
+[p]
+false
+List state after ISEMPTY: 
+[p]
+List state before ISCONTAIN p: 
+[p]
+true
+List state after ISCONTAIN: 
+[p]
+List state before GET  at 0: 
+[p]
+p
+List state after GET: 
+[p]
+List state before ADD u: 
+[p]
+List state after ADD: 
+[p, u]
+List state before GETSIZE : 
+[p, u]
+2
+List state after GETSIZE: 
+[p, u]
+List state before GETSIZE : 
+[p, u]
+2
+List state after GETSIZE: 
+[p, u]
+List state before ADD f at 0: 
+[p, u]
+List state after ADD: 
+[f, p, u]
+List state before GETSIZE : 
+[f, p, u]
+3
+List state after GETSIZE: 
+[f, p, u]
+List state before GETSIZE : 
+[f, p, u]
+3
+List state after GETSIZE: 
+[f, p, u]
+List state before REMOVE  at 11: 
+[f, p, u]
+Index is out of range

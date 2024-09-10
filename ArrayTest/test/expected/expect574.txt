@@ -1,0 +1,16 @@
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ISCONTAIN 43: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ADD 10: 
+[]
+List state after ADD: 
+[10]
+List state before REMOVE  at 11: 
+[10]
+Index is out of range!

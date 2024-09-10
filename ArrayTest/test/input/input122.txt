@@ -1,0 +1,18 @@
+TYPE:str
+ADD value:fmqgp
+ISEMPTY
+ADD value:hvuyc at:0
+GETSIZE
+REMOVE at:0
+REMOVE at:7
+CLEAR
+GETINDEX value:erkob
+ISEMPTY
+ISEMPTY
+GET at:0
+CLEAR
+GETSIZE
+ADD value:jlxft
+ADD value:qjbgj
+ADD value:hzoux at:0
+ISCONTAIN value:hzoux

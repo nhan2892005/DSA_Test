@@ -1,0 +1,2 @@
+TYPE:Point
+ADD value:Point(x=66.42, y=96.39, z=86.19) at:0

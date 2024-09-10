@@ -1,0 +1,32 @@
+TYPE:Point
+ADD value:Point(x=44.28, y=28.67, z=49.93) at:1
+ISEMPTY
+ADD value:Point(x=58.88, y=81.15, z=84.6) at:0
+ISEMPTY
+GET at:0
+REMOVE at:1
+ISEMPTY
+GETINDEX value:Point(x=44.28, y=28.67, z=49.93)
+GETSIZE
+REMOVE value:Point(x=44.28, y=28.67, z=49.93)
+ISCONTAIN value:Point(x=40.22, y=49.1, z=63.07)
+REMOVE at:0
+ADD value:Point(x=65.47, y=27.91, z=1.51)
+REMOVE at:0
+REMOVE at:0
+REMOVE at:0
+CLEAR
+ADD value:Point(x=96.1, y=63.32, z=96.4)
+ADD value:Point(x=56.59, y=71.15, z=97.69)
+GETINDEX value:Point(x=8.62, y=36.43, z=39.88)
+REMOVE at:0
+GETINDEX value:Point(x=31.5, y=39.78, z=27.92)
+ADD value:Point(x=89.31, y=13.57, z=15.34) at:1
+ISCONTAIN value:Point(x=56.59, y=71.15, z=97.69)
+REMOVE at:1
+ADD value:Point(x=6.25, y=58.39, z=34.7) at:0
+CLEAR
+REMOVE at:0
+GETINDEX value:Point(x=58.8, y=79.94, z=60.38)
+ADD value:Point(x=35.44, y=4.27, z=3.62) at:1
+ADD value:Point(x=20.34, y=76.04, z=70.0) at:0

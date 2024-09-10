@@ -1,0 +1,16 @@
+List state before GETINDEX xlfbs: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ADD zwina at 0: 
+[]
+List state after ADD: 
+[zwina]
+List state before CLEAR : 
+[zwina]
+List state after CLEAR: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range!

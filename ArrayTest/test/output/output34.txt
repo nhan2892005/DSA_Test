@@ -1,0 +1,18 @@
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before GETINDEX 13: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]

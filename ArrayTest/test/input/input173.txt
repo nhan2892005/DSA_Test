@@ -1,0 +1,25 @@
+TYPE:str
+ISCONTAIN value:mgfyw
+ADD value:itytm at:0
+REMOVE at:0
+ISCONTAIN value:hmchh
+GETINDEX value:hzvoa
+GETSIZE
+ADD value:zxzea at:1
+CLEAR
+ADD value:hhdlx at:1
+GET at:0
+ADD value:hbdmb at:1
+ISCONTAIN value:rifpi
+GET at:0
+CLEAR
+ADD value:pzrdh at:1
+ADD value:basfw at:1
+CLEAR
+GET at:0
+GETINDEX value:azhhn
+GETSIZE
+ADD value:pidjm at:1
+ISCONTAIN value:pidjm
+CLEAR
+GETINDEX value:oimok

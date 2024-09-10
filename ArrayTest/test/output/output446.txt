@@ -1,0 +1,30 @@
+List state before GETINDEX o: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before GETINDEX e: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ISCONTAIN m: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD d: 
+[]
+List state after ADD: 
+[d]
+List state before CLEAR : 
+[d]
+List state after CLEAR: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range

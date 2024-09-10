@@ -1,0 +1,37 @@
+List state before ISCONTAIN j: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ADD o at 0: 
+[]
+List state after ADD: 
+[o]
+List state before GETSIZE : 
+[o]
+1
+List state after GETSIZE: 
+[o]
+List state before ISEMPTY : 
+[o]
+false
+List state after ISEMPTY: 
+[o]
+List state before ADD s at 0: 
+[o]
+List state after ADD: 
+[s, o]
+List state before GET  at 1: 
+[s, o]
+o
+List state after GET: 
+[s, o]
+List state before REMOVE o: 
+[s, o]
+List state after REMOVE: 
+[s]

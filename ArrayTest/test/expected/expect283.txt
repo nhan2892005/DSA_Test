@@ -1,0 +1,12 @@
+List state before ISCONTAIN Point(x=30.89, y=69.84, z=89.93): 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ADD Point(x=73.99, y=7.84, z=31.05) at 0: 
+[]
+List state after ADD: 
+[P( 73.99,  7.84, 31.05)]
+List state before REMOVE  at 4: 
+[P( 73.99,  7.84, 31.05)]
+Index is out of range!

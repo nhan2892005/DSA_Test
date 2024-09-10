@@ -1,0 +1,21 @@
+List state before ISCONTAIN 53.94: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ISCONTAIN 3.17: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range!

@@ -1,0 +1,40 @@
+List state before ISCONTAIN diyul: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ISCONTAIN bkdgp: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ISCONTAIN unvpm: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GETINDEX asgru: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ADD iyckr at 0: 
+[]
+List state after ADD: 
+[iyckr]
+List state before GET  at 0: 
+[iyckr]
+iyckr
+List state after GET: 
+[iyckr]
+List state before REMOVE  at 0: 
+[iyckr]
+List state after REMOVE: 
+[]
+List state before ADD druss: 
+[]
+List state after ADD: 
+[druss]
+List state before REMOVE  at 3: 
+[druss]
+Index is out of range!

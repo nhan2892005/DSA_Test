@@ -1,0 +1,37 @@
+TYPE:chr
+ADD value:a at:0
+ADD value:l at:0
+ADD value:e at:2
+ISCONTAIN value:a
+ADD value:d at:1
+ISEMPTY
+ADD value:o at:2
+ADD value:b at:3
+ISCONTAIN value:i
+ISCONTAIN value:e
+ISCONTAIN value:d
+GETSIZE
+ADD value:y at:0
+ADD value:j
+GETINDEX value:n
+GET at:1
+ADD value:d at:5
+ISEMPTY
+ISEMPTY
+ADD value:w at:3
+CLEAR
+ADD value:u at:0
+CLEAR
+REMOVE at:0
+CLEAR
+GETSIZE
+GETINDEX value:y
+REMOVE at:0
+GETSIZE
+GET at:0
+ADD value:o at:1
+ADD value:v at:1
+GET at:0
+ISCONTAIN value:e
+REMOVE at:0
+ADD value:o at:0

@@ -1,0 +1,105 @@
+List state before ADD a at 0: 
+[]
+List state after ADD: 
+[a]
+List state before ADD l at 0: 
+[a]
+List state after ADD: 
+[l, a]
+List state before ADD e at 2: 
+[l, a]
+List state after ADD: 
+[l, a, e]
+List state before ISCONTAIN a: 
+[l, a, e]
+true
+List state after ISCONTAIN: 
+[l, a, e]
+List state before ADD d at 1: 
+[l, a, e]
+List state after ADD: 
+[l, d, a, e]
+List state before ISEMPTY : 
+[l, d, a, e]
+false
+List state after ISEMPTY: 
+[l, d, a, e]
+List state before ADD o at 2: 
+[l, d, a, e]
+List state after ADD: 
+[l, d, o, a, e]
+List state before ADD b at 3: 
+[l, d, o, a, e]
+List state after ADD: 
+[l, d, o, b, a, e]
+List state before ISCONTAIN i: 
+[l, d, o, b, a, e]
+false
+List state after ISCONTAIN: 
+[l, d, o, b, a, e]
+List state before ISCONTAIN e: 
+[l, d, o, b, a, e]
+true
+List state after ISCONTAIN: 
+[l, d, o, b, a, e]
+List state before ISCONTAIN d: 
+[l, d, o, b, a, e]
+true
+List state after ISCONTAIN: 
+[l, d, o, b, a, e]
+List state before GETSIZE : 
+[l, d, o, b, a, e]
+6
+List state after GETSIZE: 
+[l, d, o, b, a, e]
+List state before ADD y at 0: 
+[l, d, o, b, a, e]
+List state after ADD: 
+[y, l, d, o, b, a, e]
+List state before ADD j: 
+[y, l, d, o, b, a, e]
+List state after ADD: 
+[y, l, d, o, b, a, e, j]
+List state before GETINDEX n: 
+[y, l, d, o, b, a, e, j]
+-1
+List state after GETINDEX: 
+[y, l, d, o, b, a, e, j]
+List state before GET  at 1: 
+[y, l, d, o, b, a, e, j]
+l
+List state after GET: 
+[y, l, d, o, b, a, e, j]
+List state before ADD d at 5: 
+[y, l, d, o, b, a, e, j]
+List state after ADD: 
+[y, l, d, o, b, d, a, e, j]
+List state before ISEMPTY : 
+[y, l, d, o, b, d, a, e, j]
+false
+List state after ISEMPTY: 
+[y, l, d, o, b, d, a, e, j]
+List state before ISEMPTY : 
+[y, l, d, o, b, d, a, e, j]
+false
+List state after ISEMPTY: 
+[y, l, d, o, b, d, a, e, j]
+List state before ADD w at 3: 
+[y, l, d, o, b, d, a, e, j]
+List state after ADD: 
+[y, l, d, w, o, b, d, a, e, j]
+List state before CLEAR : 
+[y, l, d, w, o, b, d, a, e, j]
+List state after CLEAR: 
+[]
+List state before ADD u at 0: 
+[]
+List state after ADD: 
+[u]
+List state before CLEAR : 
+[u]
+List state after CLEAR: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range

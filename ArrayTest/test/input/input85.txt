@@ -1,0 +1,13 @@
+TYPE:chr
+GETSIZE
+GETINDEX value:t
+GETINDEX value:d
+CLEAR
+CLEAR
+ISCONTAIN value:t
+GETSIZE
+CLEAR
+ADD value:y
+ISCONTAIN value:d
+ADD value:d
+ISEMPTY

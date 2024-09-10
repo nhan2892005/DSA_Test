@@ -1,0 +1,5 @@
+TYPE:int
+REMOVE at:0
+ISCONTAIN value:3
+GET at:0
+ADD value:35

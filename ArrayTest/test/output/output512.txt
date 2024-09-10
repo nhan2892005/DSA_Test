@@ -1,0 +1,13 @@
+List state before GETINDEX f: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range

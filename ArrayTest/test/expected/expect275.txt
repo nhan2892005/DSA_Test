@@ -1,0 +1,59 @@
+List state before ADD Point(x=24.54, y=41.51, z=44.37) at 0: 
+[]
+List state after ADD: 
+[P( 24.54, 41.51, 44.37)]
+List state before GETINDEX Point(x=45.08, y=41.78, z=19.22): 
+[P( 24.54, 41.51, 44.37)]
+-1
+List state after GETINDEX: 
+[P( 24.54, 41.51, 44.37)]
+List state before ADD Point(x=98.47, y=2.51, z=15.33) at 1: 
+[P( 24.54, 41.51, 44.37)]
+List state after ADD: 
+[P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+List state before GETSIZE : 
+[P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+2
+List state after GETSIZE: 
+[P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+List state before ADD Point(x=10.84, y=36.11, z=89.13) at 0: 
+[P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+List state after ADD: 
+[P( 10.84, 36.11, 89.13), P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+List state before GETSIZE : 
+[P( 10.84, 36.11, 89.13), P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+3
+List state after GETSIZE: 
+[P( 10.84, 36.11, 89.13), P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+List state before ISEMPTY : 
+[P( 10.84, 36.11, 89.13), P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+false
+List state after ISEMPTY: 
+[P( 10.84, 36.11, 89.13), P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+List state before GETINDEX Point(x=9.87, y=32.82, z=19.98): 
+[P( 10.84, 36.11, 89.13), P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+-1
+List state after GETINDEX: 
+[P( 10.84, 36.11, 89.13), P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+List state before GETINDEX Point(x=10.84, y=36.11, z=89.13): 
+[P( 10.84, 36.11, 89.13), P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+0
+List state after GETINDEX: 
+[P( 10.84, 36.11, 89.13), P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+List state before CLEAR : 
+[P( 10.84, 36.11, 89.13), P( 24.54, 41.51, 44.37), P( 98.47,  2.51, 15.33)]
+List state after CLEAR: 
+[]
+List state before ISCONTAIN Point(x=86.37, y=27.43, z=38.23): 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range!

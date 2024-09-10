@@ -1,0 +1,20 @@
+List state before ADD i: 
+[]
+List state after ADD: 
+[i]
+List state before GETINDEX i: 
+[i]
+0
+List state after GETINDEX: 
+[i]
+List state before ADD a: 
+[i]
+List state after ADD: 
+[i, a]
+List state before ADD g at 0: 
+[i, a]
+List state after ADD: 
+[g, i, a]
+List state before REMOVE  at 11: 
+[g, i, a]
+Index is out of range!

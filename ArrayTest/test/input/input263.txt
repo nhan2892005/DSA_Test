@@ -1,0 +1,38 @@
+TYPE:str
+GETINDEX value:rxpab
+ISCONTAIN value:urrkh
+GETSIZE
+ADD value:pigmi at:0
+GETSIZE
+ISCONTAIN value:yappx
+ADD value:iytwr at:0
+REMOVE value:iytwr
+GETSIZE
+ISCONTAIN value:pigmi
+GETINDEX value:pigmi
+ADD value:jjbks at:2
+ADD value:oxyaq at:2
+REMOVE at:9
+GETINDEX value:jjbks
+ADD value:rhtjl at:2
+ADD value:ddglg at:0
+GET at:1
+ADD value:ejkkj at:6
+ISEMPTY
+GET at:3
+ADD value:pxeqq at:4
+ADD value:nromm at:3
+ISEMPTY
+GETSIZE
+GET at:6
+ISCONTAIN value:oxyaq
+REMOVE at:6
+ADD value:meddz at:3
+CLEAR
+REMOVE at:0
+GETSIZE
+REMOVE at:0
+ISEMPTY
+ISEMPTY
+CLEAR
+ADD value:fgqsx at:1

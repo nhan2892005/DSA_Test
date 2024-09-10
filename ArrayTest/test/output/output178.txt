@@ -1,0 +1,28 @@
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before ADD Point(x=85.84, y=9.29, z=7.82) at 0: 
+[]
+List state after ADD: 
+[P( 85.84,  9.29,  7.82)]
+List state before ADD Point(x=81.11, y=63.69, z=85.01) at 0: 
+[P( 85.84,  9.29,  7.82)]
+List state after ADD: 
+[P( 81.11, 63.69, 85.01), P( 85.84,  9.29,  7.82)]
+List state before ADD Point(x=54.48, y=47.03, z=41.41) at 0: 
+[P( 81.11, 63.69, 85.01), P( 85.84,  9.29,  7.82)]
+List state after ADD: 
+[P( 54.48, 47.03, 41.41), P( 81.11, 63.69, 85.01), P( 85.84,  9.29,  7.82)]
+List state before REMOVE  at 2: 
+[P( 54.48, 47.03, 41.41), P( 81.11, 63.69, 85.01), P( 85.84,  9.29,  7.82)]
+List state after REMOVE: 
+[P( 54.48, 47.03, 41.41), P( 81.11, 63.69, 85.01)]
+List state before CLEAR : 
+[P( 54.48, 47.03, 41.41), P( 81.11, 63.69, 85.01)]
+List state after CLEAR: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range

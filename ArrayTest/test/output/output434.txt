@@ -1,0 +1,33 @@
+List state before ADD Point(x=79.74, y=60.12, z=32.9): 
+[]
+List state after ADD: 
+[P( 79.74, 60.12, 32.90)]
+List state before CLEAR : 
+[P( 79.74, 60.12, 32.90)]
+List state after CLEAR: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD Point(x=68.96, y=62.59, z=5.7): 
+[]
+List state after ADD: 
+[P( 68.96, 62.59,  5.70)]
+List state before GET  at 0: 
+[P( 68.96, 62.59,  5.70)]
+P( 68.96, 62.59,  5.70)
+List state after GET: 
+[P( 68.96, 62.59,  5.70)]
+List state before REMOVE  at 0: 
+[P( 68.96, 62.59,  5.70)]
+List state after REMOVE: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range

@@ -1,0 +1,13 @@
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ISCONTAIN Point(x=61.47, y=1.16, z=76.97): 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range!

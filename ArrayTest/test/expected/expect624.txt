@@ -1,0 +1,96 @@
+List state before ADD s at 0: 
+[]
+List state after ADD: 
+[s]
+List state before GETINDEX y: 
+[s]
+-1
+List state after GETINDEX: 
+[s]
+List state before CLEAR : 
+[s]
+List state after CLEAR: 
+[]
+List state before GETINDEX l: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ADD j at 0: 
+[]
+List state after ADD: 
+[j]
+List state before GETINDEX j: 
+[j]
+0
+List state after GETINDEX: 
+[j]
+List state before ADD j at 1: 
+[j]
+List state after ADD: 
+[j, j]
+List state before REMOVE  at 1: 
+[j, j]
+List state after REMOVE: 
+[j]
+List state before ISEMPTY : 
+[j]
+false
+List state after ISEMPTY: 
+[j]
+List state before GET  at 0: 
+[j]
+j
+List state after GET: 
+[j]
+List state before CLEAR : 
+[j]
+List state after CLEAR: 
+[]
+List state before ADD q: 
+[]
+List state after ADD: 
+[q]
+List state before GET  at 0: 
+[q]
+q
+List state after GET: 
+[q]
+List state before ADD j at 0: 
+[q]
+List state after ADD: 
+[j, q]
+List state before GET  at 0: 
+[j, q]
+j
+List state after GET: 
+[j, q]
+List state before ADD r at 0: 
+[j, q]
+List state after ADD: 
+[r, j, q]
+List state before REMOVE r: 
+[r, j, q]
+List state after REMOVE: 
+[j, q]
+List state before GETSIZE : 
+[j, q]
+2
+List state after GETSIZE: 
+[j, q]
+List state before REMOVE  at 0: 
+[j, q]
+List state after REMOVE: 
+[q]
+List state before GET  at 0: 
+[q]
+q
+List state after GET: 
+[q]
+List state before ADD n at 1: 
+[q]
+List state after ADD: 
+[q, n]
+List state before REMOVE  at 3: 
+[q, n]
+Index is out of range!

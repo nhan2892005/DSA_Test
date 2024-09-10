@@ -1,0 +1,11 @@
+List state before ADD Point(x=86.24, y=43.98, z=98.24) at 0: 
+[]
+List state after ADD: 
+[P( 86.24, 43.98, 98.24)]
+List state before REMOVE  at 0: 
+[P( 86.24, 43.98, 98.24)]
+List state after REMOVE: 
+[]
+List state before ADD Point(x=58.6, y=57.76, z=3.07) at 1: 
+[]
+Index is out of range

@@ -1,0 +1,51 @@
+List state before ISCONTAIN 97.69: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ADD 2.12: 
+[]
+List state after ADD: 
+[2.12]
+List state before ADD 27.71 at 0: 
+[2.12]
+List state after ADD: 
+[27.71, 2.12]
+List state before ADD 47.66 at 0: 
+[27.71, 2.12]
+List state after ADD: 
+[47.66, 27.71, 2.12]
+List state before ISEMPTY : 
+[47.66, 27.71, 2.12]
+false
+List state after ISEMPTY: 
+[47.66, 27.71, 2.12]
+List state before GETSIZE : 
+[47.66, 27.71, 2.12]
+3
+List state after GETSIZE: 
+[47.66, 27.71, 2.12]
+List state before GET  at 2: 
+[47.66, 27.71, 2.12]
+2.12
+List state after GET: 
+[47.66, 27.71, 2.12]
+List state before ADD 38.77 at 1: 
+[47.66, 27.71, 2.12]
+List state after ADD: 
+[47.66, 38.77, 27.71, 2.12]
+List state before ADD 39.21 at 3: 
+[47.66, 38.77, 27.71, 2.12]
+List state after ADD: 
+[47.66, 38.77, 27.71, 39.21, 2.12]
+List state before ADD 3.23 at 4: 
+[47.66, 38.77, 27.71, 39.21, 2.12]
+List state after ADD: 
+[47.66, 38.77, 27.71, 39.21, 3.23, 2.12]
+List state before CLEAR : 
+[47.66, 38.77, 27.71, 39.21, 3.23, 2.12]
+List state after CLEAR: 
+[]
+List state before ADD 6.88 at 1: 
+[]
+Index is out of range

@@ -1,0 +1,11 @@
+List state before ADD ellio at 0: 
+[]
+List state after ADD: 
+[ellio]
+List state before CLEAR : 
+[ellio]
+List state after CLEAR: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range

@@ -1,0 +1,8 @@
+TYPE:chr
+ISCONTAIN value:c
+CLEAR
+ADD value:k at:1
+REMOVE at:0
+ADD value:f
+ISCONTAIN value:f
+GETINDEX value:f

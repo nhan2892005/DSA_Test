@@ -1,0 +1,8 @@
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before ADD akucb at 1: 
+[]
+Index is out of range

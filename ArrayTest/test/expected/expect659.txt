@@ -1,0 +1,83 @@
+List state before ADD 40.96: 
+[]
+List state after ADD: 
+[40.96]
+List state before ADD 67.81 at 0: 
+[40.96]
+List state after ADD: 
+[67.81, 40.96]
+List state before GETINDEX 40.96: 
+[67.81, 40.96]
+1
+List state after GETINDEX: 
+[67.81, 40.96]
+List state before ADD 57.78 at 1: 
+[67.81, 40.96]
+List state after ADD: 
+[67.81, 57.78, 40.96]
+List state before ADD 65.5: 
+[67.81, 57.78, 40.96]
+List state after ADD: 
+[67.81, 57.78, 40.96, 65.5]
+List state before ISCONTAIN 65.5: 
+[67.81, 57.78, 40.96, 65.5]
+true
+List state after ISCONTAIN: 
+[67.81, 57.78, 40.96, 65.5]
+List state before GETINDEX 67.81: 
+[67.81, 57.78, 40.96, 65.5]
+0
+List state after GETINDEX: 
+[67.81, 57.78, 40.96, 65.5]
+List state before GET  at 1: 
+[67.81, 57.78, 40.96, 65.5]
+57.78
+List state after GET: 
+[67.81, 57.78, 40.96, 65.5]
+List state before ISEMPTY : 
+[67.81, 57.78, 40.96, 65.5]
+false
+List state after ISEMPTY: 
+[67.81, 57.78, 40.96, 65.5]
+List state before ADD 12.57: 
+[67.81, 57.78, 40.96, 65.5]
+List state after ADD: 
+[67.81, 57.78, 40.96, 65.5, 12.57]
+List state before GET  at 3: 
+[67.81, 57.78, 40.96, 65.5, 12.57]
+65.50
+List state after GET: 
+[67.81, 57.78, 40.96, 65.5, 12.57]
+List state before REMOVE 65.5: 
+[67.81, 57.78, 40.96, 65.5, 12.57]
+List state after REMOVE: 
+[67.81, 57.78, 40.96, 12.57]
+List state before ISEMPTY : 
+[67.81, 57.78, 40.96, 12.57]
+false
+List state after ISEMPTY: 
+[67.81, 57.78, 40.96, 12.57]
+List state before ADD 45.82 at 4: 
+[67.81, 57.78, 40.96, 12.57]
+List state after ADD: 
+[67.81, 57.78, 40.96, 12.57, 45.82]
+List state before ADD 51.46 at 5: 
+[67.81, 57.78, 40.96, 12.57, 45.82]
+List state after ADD: 
+[67.81, 57.78, 40.96, 12.57, 45.82, 51.46]
+List state before ADD 74.1 at 5: 
+[67.81, 57.78, 40.96, 12.57, 45.82, 51.46]
+List state after ADD: 
+[67.81, 57.78, 40.96, 12.57, 45.82, 74.1, 51.46]
+List state before GETSIZE : 
+[67.81, 57.78, 40.96, 12.57, 45.82, 74.1, 51.46]
+7
+List state after GETSIZE: 
+[67.81, 57.78, 40.96, 12.57, 45.82, 74.1, 51.46]
+List state before ADD 15.17 at 7: 
+[67.81, 57.78, 40.96, 12.57, 45.82, 74.1, 51.46]
+List state after ADD: 
+[67.81, 57.78, 40.96, 12.57, 45.82, 74.1, 51.46, 15.17]
+List state before REMOVE  at 8: 
+[67.81, 57.78, 40.96, 12.57, 45.82, 74.1, 51.46, 15.17]
+Index is out of range!

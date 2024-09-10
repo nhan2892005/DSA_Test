@@ -1,0 +1,49 @@
+TYPE:str
+GETINDEX value:xlfbs
+ADD value:zwina at:0
+CLEAR
+REMOVE at:0
+ISCONTAIN value:fdapd
+ADD value:tzhux at:0
+GETINDEX value:tzhux
+REMOVE at:0
+ADD value:biatv at:1
+ADD value:jynmp at:0
+ISCONTAIN value:qmzwk
+GETINDEX value:jynmp
+ADD value:sixvr
+CLEAR
+ADD value:yxmqy at:0
+CLEAR
+ADD value:yntwt
+REMOVE at:0
+ADD value:nzaxh
+ADD value:blkai at:1
+REMOVE at:1
+ADD value:xpuoc
+ISEMPTY
+GETINDEX value:nzaxh
+ISEMPTY
+ADD value:xlbij at:2
+GETSIZE
+CLEAR
+CLEAR
+ISCONTAIN value:dninf
+ISEMPTY
+GETINDEX value:nyybc
+ISCONTAIN value:hywzw
+GETSIZE
+ISCONTAIN value:zlyvs
+ADD value:tzzma at:1
+ADD value:ukzoo
+REMOVE at:0
+CLEAR
+ADD value:tkwtp
+GET at:0
+REMOVE at:5
+REMOVE at:0
+ISEMPTY
+ADD value:egefp at:1
+ADD value:wwfov at:1
+ISCONTAIN value:wwfov
+GETINDEX value:wwfov

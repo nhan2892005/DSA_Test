@@ -1,0 +1,6 @@
+TYPE:chr
+ISEMPTY
+ADD value:u
+ADD value:m
+GET at:0
+ISEMPTY

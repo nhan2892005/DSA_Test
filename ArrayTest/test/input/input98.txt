@@ -1,0 +1,14 @@
+TYPE:str
+ISCONTAIN value:diyul
+ISCONTAIN value:bkdgp
+ISCONTAIN value:unvpm
+GETINDEX value:asgru
+ADD value:iyckr at:0
+GET at:0
+REMOVE at:0
+ADD value:druss
+REMOVE at:3
+ISCONTAIN value:druss
+REMOVE at:10
+REMOVE at:0
+CLEAR

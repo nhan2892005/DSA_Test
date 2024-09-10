@@ -1,0 +1,72 @@
+TYPE:Point
+GETINDEX value:Point(x=42.24, y=7.1, z=31.47)
+GETINDEX value:Point(x=96.6, y=77.25, z=40.19)
+ADD value:Point(x=16.12, y=96.15, z=98.12)
+ADD value:Point(x=40.41, y=67.48, z=68.61)
+ADD value:Point(x=26.59, y=76.02, z=71.61)
+REMOVE at:2
+ADD value:Point(x=26.88, y=60.92, z=64.74) at:2
+CLEAR
+ISCONTAIN value:Point(x=86.5, y=77.16, z=63.32)
+GETSIZE
+ADD value:Point(x=45.42, y=3.89, z=69.67)
+ADD value:Point(x=55.77, y=12.43, z=5.99) at:1
+GET at:0
+CLEAR
+GET at:0
+ISEMPTY
+CLEAR
+REMOVE at:0
+ADD value:Point(x=65.2, y=4.88, z=33.53) at:1
+CLEAR
+ISEMPTY
+ADD value:Point(x=10.59, y=92.27, z=33.26) at:0
+GETSIZE
+ISCONTAIN value:Point(x=10.59, y=92.27, z=33.26)
+REMOVE at:0
+GETINDEX value:Point(x=49.26, y=79.14, z=40.39)
+GET at:0
+GETSIZE
+REMOVE at:0
+CLEAR
+ADD value:Point(x=50.51, y=78.21, z=69.35) at:0
+REMOVE at:4
+GETINDEX value:Point(x=50.51, y=78.21, z=69.35)
+REMOVE at:0
+ADD value:Point(x=39.27, y=16.43, z=10.53) at:1
+ADD value:Point(x=45.46, y=5.08, z=83.54) at:0
+GET at:1
+ISCONTAIN value:Point(x=45.46, y=5.08, z=83.54)
+ADD value:Point(x=7.92, y=94.83, z=84.81) at:0
+REMOVE at:2
+ISCONTAIN value:Point(x=97.76, y=38.38, z=94.42)
+REMOVE value:Point(x=50.51, y=78.21, z=69.35)
+ADD value:Point(x=37.62, y=1.6, z=62.48) at:0
+ADD value:Point(x=95.66, y=32.4, z=32.09) at:1
+CLEAR
+CLEAR
+ADD value:Point(x=48.0, y=60.94, z=61.97) at:0
+ADD value:Point(x=44.86, y=12.79, z=80.57) at:1
+ADD value:Point(x=44.04, y=40.39, z=19.1) at:2
+REMOVE at:9
+ISEMPTY
+CLEAR
+GETINDEX value:Point(x=3.48, y=39.85, z=71.88)
+GETINDEX value:Point(x=66.19, y=17.51, z=14.79)
+GETSIZE
+GET at:0
+ISCONTAIN value:Point(x=6.54, y=81.89, z=35.2)
+ISEMPTY
+ADD value:Point(x=80.07, y=33.43, z=67.52) at:0
+ADD value:Point(x=47.32, y=55.2, z=30.04)
+GET at:0
+REMOVE at:1
+REMOVE value:Point(x=47.32, y=55.2, z=30.04)
+CLEAR
+ADD value:Point(x=90.18, y=75.09, z=79.81) at:1
+REMOVE at:0
+ADD value:Point(x=88.71, y=46.89, z=27.2) at:1
+ADD value:Point(x=69.16, y=93.4, z=83.18) at:1
+ISCONTAIN value:Point(x=69.16, y=93.4, z=83.18)
+REMOVE at:6
+GETSIZE

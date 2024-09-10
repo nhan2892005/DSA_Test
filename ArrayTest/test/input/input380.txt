@@ -1,0 +1,55 @@
+TYPE:chr
+GETSIZE
+GETINDEX value:r
+CLEAR
+REMOVE at:0
+ADD value:f
+ADD value:p
+GETINDEX value:f
+ADD value:c
+GETINDEX value:p
+CLEAR
+ADD value:p
+GETSIZE
+CLEAR
+ADD value:f at:1
+GET at:0
+ADD value:h at:0
+ADD value:j at:2
+ADD value:i at:3
+GETSIZE
+GETINDEX value:v
+ISEMPTY
+GETSIZE
+ISEMPTY
+REMOVE at:3
+GETSIZE
+ADD value:q at:1
+ADD value:h at:1
+ISCONTAIN value:j
+REMOVE value:f
+GETSIZE
+REMOVE at:4
+REMOVE at:0
+REMOVE at:2
+GET at:0
+REMOVE at:8
+GETSIZE
+GETSIZE
+GET at:0
+ADD value:g
+REMOVE at:0
+ISEMPTY
+ISEMPTY
+ISCONTAIN value:g
+ADD value:f
+ADD value:g at:0
+ADD value:v
+GETSIZE
+ADD value:g at:2
+REMOVE at:14
+ISEMPTY
+REMOVE at:0
+GETINDEX value:c
+GETSIZE
+REMOVE at:0

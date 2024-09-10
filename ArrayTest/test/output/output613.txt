@@ -1,0 +1,8 @@
+List state before GETINDEX Point(x=66.47, y=89.78, z=51.4): 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range

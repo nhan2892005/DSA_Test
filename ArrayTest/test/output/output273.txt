@@ -1,0 +1,42 @@
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD gkrho at 0: 
+[]
+List state after ADD: 
+[gkrho]
+List state before ADD piurf at 1: 
+[gkrho]
+List state after ADD: 
+[gkrho, piurf]
+List state before GETINDEX piurf: 
+[gkrho, piurf]
+1
+List state after GETINDEX: 
+[gkrho, piurf]
+List state before REMOVE  at 1: 
+[gkrho, piurf]
+List state after REMOVE: 
+[gkrho]
+List state before GETSIZE : 
+[gkrho]
+1
+List state after GETSIZE: 
+[gkrho]
+List state before ADD dznol at 1: 
+[gkrho]
+List state after ADD: 
+[gkrho, dznol]
+List state before CLEAR : 
+[gkrho, dznol]
+List state after CLEAR: 
+[]
+List state before ADD cmuyn at 1: 
+[]
+Index is out of range

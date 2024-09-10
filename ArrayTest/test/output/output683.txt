@@ -1,0 +1,12 @@
+List state before ISCONTAIN 84: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD 56 at 1: 
+[]
+Index is out of range

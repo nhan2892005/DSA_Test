@@ -1,0 +1,15 @@
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD qgacy at 0: 
+[]
+List state after ADD: 
+[qgacy]
+List state before REMOVE  at 0: 
+[qgacy]
+List state after REMOVE: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range!

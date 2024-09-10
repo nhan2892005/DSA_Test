@@ -1,0 +1,29 @@
+TYPE:str
+ISCONTAIN value:wdnor
+GETINDEX value:nfiyl
+REMOVE at:0
+GETINDEX value:hpxqw
+GET at:0
+CLEAR
+ADD value:lkwgp at:1
+ISEMPTY
+CLEAR
+ISEMPTY
+ISEMPTY
+GETINDEX value:nnpvs
+GETSIZE
+ISEMPTY
+ADD value:etayk
+GET at:0
+ISEMPTY
+GET at:0
+GET at:0
+ADD value:wkxqa at:1
+ADD value:qxbgn at:1
+ADD value:pbtpk at:3
+ADD value:nqxcx at:3
+ADD value:miyup at:0
+ADD value:cyfox at:6
+GETSIZE
+CLEAR
+CLEAR

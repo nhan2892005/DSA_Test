@@ -1,0 +1,23 @@
+List state before ISCONTAIN v: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ISCONTAIN b: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GETINDEX l: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ADD j at 1: 
+[]
+Index is out of range

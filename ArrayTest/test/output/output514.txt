@@ -1,0 +1,20 @@
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before ADD Point(x=80.23, y=93.1, z=72.4): 
+[]
+List state after ADD: 
+[P( 80.23, 93.10, 72.40)]
+List state before REMOVE  at 0: 
+[P( 80.23, 93.10, 72.40)]
+List state after REMOVE: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range

@@ -1,0 +1,81 @@
+List state before ADD 78: 
+[]
+List state after ADD: 
+[78]
+List state before ADD 29 at 0: 
+[78]
+List state after ADD: 
+[29, 78]
+List state before GET  at 0: 
+[29, 78]
+29
+List state after GET: 
+[29, 78]
+List state before ISCONTAIN 78: 
+[29, 78]
+true
+List state after ISCONTAIN: 
+[29, 78]
+List state before GETINDEX 62: 
+[29, 78]
+-1
+List state after GETINDEX: 
+[29, 78]
+List state before GET  at 1: 
+[29, 78]
+78
+List state after GET: 
+[29, 78]
+List state before ADD 9 at 2: 
+[29, 78]
+List state after ADD: 
+[29, 78, 9]
+List state before ADD 31 at 3: 
+[29, 78, 9]
+List state after ADD: 
+[29, 78, 9, 31]
+List state before ISEMPTY : 
+[29, 78, 9, 31]
+false
+List state after ISEMPTY: 
+[29, 78, 9, 31]
+List state before GETINDEX 86: 
+[29, 78, 9, 31]
+-1
+List state after GETINDEX: 
+[29, 78, 9, 31]
+List state before ISEMPTY : 
+[29, 78, 9, 31]
+false
+List state after ISEMPTY: 
+[29, 78, 9, 31]
+List state before ISCONTAIN 29: 
+[29, 78, 9, 31]
+true
+List state after ISCONTAIN: 
+[29, 78, 9, 31]
+List state before ISEMPTY : 
+[29, 78, 9, 31]
+false
+List state after ISEMPTY: 
+[29, 78, 9, 31]
+List state before REMOVE  at 3: 
+[29, 78, 9, 31]
+List state after REMOVE: 
+[29, 78, 9]
+List state before ADD 99 at 0: 
+[29, 78, 9]
+List state after ADD: 
+[99, 29, 78, 9]
+List state before ISCONTAIN 78: 
+[99, 29, 78, 9]
+true
+List state after ISCONTAIN: 
+[99, 29, 78, 9]
+List state before CLEAR : 
+[99, 29, 78, 9]
+List state after CLEAR: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range!

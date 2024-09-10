@@ -1,0 +1,55 @@
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before GETINDEX t: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before GETINDEX d: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ISCONTAIN t: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD y: 
+[]
+List state after ADD: 
+[y]
+List state before ISCONTAIN d: 
+[y]
+false
+List state after ISCONTAIN: 
+[y]
+List state before ADD d: 
+[y]
+List state after ADD: 
+[y, d]
+List state before ISEMPTY : 
+[y, d]
+false
+List state after ISEMPTY: 
+[y, d]

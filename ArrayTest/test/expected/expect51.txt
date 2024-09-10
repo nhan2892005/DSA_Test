@@ -1,0 +1,32 @@
+List state before ADD 32.66 at 0: 
+[]
+List state after ADD: 
+[32.66]
+List state before GET  at 0: 
+[32.66]
+32.66
+List state after GET: 
+[32.66]
+List state before REMOVE  at 0: 
+[32.66]
+List state after REMOVE: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before GETINDEX 13.17: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ADD 10.7: 
+[]
+List state after ADD: 
+[10.7]
+List state before ISEMPTY : 
+[10.7]
+false
+List state after ISEMPTY: 
+[10.7]

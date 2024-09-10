@@ -1,0 +1,12 @@
+List state before ADD 50.38: 
+[]
+List state after ADD: 
+[50.38]
+List state before GET  at 0: 
+[50.38]
+50.38
+List state after GET: 
+[50.38]
+List state before REMOVE  at 3: 
+[50.38]
+Index is out of range!

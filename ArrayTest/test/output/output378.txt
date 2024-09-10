@@ -1,0 +1,50 @@
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before ISCONTAIN w: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ADD y at 0: 
+[]
+List state after ADD: 
+[y]
+List state before ADD r at 0: 
+[y]
+List state after ADD: 
+[r, y]
+List state before CLEAR : 
+[r, y]
+List state after CLEAR: 
+[]
+List state before ISCONTAIN e: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ADD s at 1: 
+[]
+Index is out of range

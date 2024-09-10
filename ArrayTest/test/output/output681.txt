@@ -1,0 +1,93 @@
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before ADD aligu at 0: 
+[]
+List state after ADD: 
+[aligu]
+List state before GETSIZE : 
+[aligu]
+1
+List state after GETSIZE: 
+[aligu]
+List state before ISEMPTY : 
+[aligu]
+false
+List state after ISEMPTY: 
+[aligu]
+List state before GET  at 0: 
+[aligu]
+aligu
+List state after GET: 
+[aligu]
+List state before REMOVE aligu: 
+[aligu]
+List state after REMOVE: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ISCONTAIN jbtwj: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ISCONTAIN yiobr: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD hlmya at 0: 
+[]
+List state after ADD: 
+[hlmya]
+List state before GETINDEX omlwk: 
+[hlmya]
+-1
+List state after GETINDEX: 
+[hlmya]
+List state before ADD yyblf at 0: 
+[hlmya]
+List state after ADD: 
+[yyblf, hlmya]
+List state before REMOVE  at 1: 
+[yyblf, hlmya]
+List state after REMOVE: 
+[yyblf]
+List state before CLEAR : 
+[yyblf]
+List state after CLEAR: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range

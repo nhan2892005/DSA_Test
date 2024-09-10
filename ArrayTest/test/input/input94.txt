@@ -1,0 +1,14 @@
+TYPE:float
+ISCONTAIN value:91.05
+REMOVE at:0
+ISCONTAIN value:41.73
+GET at:0
+GETINDEX value:6.78
+REMOVE at:0
+GET at:0
+GET at:0
+GET at:0
+REMOVE at:0
+CLEAR
+GETINDEX value:94.33
+GETINDEX value:23.82

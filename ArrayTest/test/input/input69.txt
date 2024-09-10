@@ -1,0 +1,10 @@
+TYPE:int
+ADD value:42
+GETINDEX value:20
+REMOVE at:0
+REMOVE at:0
+ISEMPTY
+ISCONTAIN value:34
+REMOVE at:0
+REMOVE at:0
+REMOVE at:0

@@ -1,0 +1,18 @@
+List state before ISCONTAIN frkwi: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GETINDEX ryjsd: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range!

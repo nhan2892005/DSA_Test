@@ -1,0 +1,13 @@
+List state before ISCONTAIN Point(x=33.58, y=52.43, z=72.7): 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GETINDEX Point(x=57.24, y=98.61, z=64.0): 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range!

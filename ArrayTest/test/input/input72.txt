@@ -1,0 +1,11 @@
+TYPE:Point
+ADD value:Point(x=55.65, y=73.12, z=17.36)
+ADD value:Point(x=33.95, y=71.6, z=96.76)
+GETSIZE
+ADD value:Point(x=89.41, y=68.32, z=60.95) at:2
+ISEMPTY
+GET at:2
+GETSIZE
+REMOVE at:8
+ISEMPTY
+ADD value:Point(x=23.58, y=38.63, z=70.25) at:2

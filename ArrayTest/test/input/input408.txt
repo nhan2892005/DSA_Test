@@ -1,0 +1,59 @@
+TYPE:int
+GETSIZE
+GETSIZE
+ADD value:16 at:0
+REMOVE at:0
+CLEAR
+ADD value:11 at:0
+GETSIZE
+REMOVE at:0
+GET at:0
+ADD value:63 at:0
+REMOVE at:9
+REMOVE at:0
+REMOVE at:0
+ISEMPTY
+GET at:0
+GET at:0
+ADD value:31 at:1
+REMOVE at:7
+REMOVE at:0
+CLEAR
+GETSIZE
+ADD value:12 at:0
+REMOVE at:0
+ADD value:100 at:1
+REMOVE at:0
+ISEMPTY
+GETINDEX value:87
+CLEAR
+REMOVE at:0
+REMOVE at:0
+ADD value:11 at:0
+ADD value:97
+REMOVE at:0
+REMOVE at:0
+ADD value:28 at:0
+GETINDEX value:28
+ADD value:42 at:0
+ISEMPTY
+ISEMPTY
+CLEAR
+ADD value:68 at:1
+ADD value:26 at:1
+ISEMPTY
+ISEMPTY
+CLEAR
+CLEAR
+ISEMPTY
+GETSIZE
+ADD value:88 at:1
+ADD value:87 at:0
+ADD value:67
+ISCONTAIN value:67
+ADD value:87
+GETINDEX value:87
+ISEMPTY
+ISEMPTY
+REMOVE at:9
+GETSIZE

@@ -1,0 +1,91 @@
+List state before ADD smmuf at 0: 
+[]
+List state after ADD: 
+[smmuf]
+List state before ADD vquvh at 0: 
+[smmuf]
+List state after ADD: 
+[vquvh, smmuf]
+List state before GET  at 1: 
+[vquvh, smmuf]
+smmuf
+List state after GET: 
+[vquvh, smmuf]
+List state before ISEMPTY : 
+[vquvh, smmuf]
+false
+List state after ISEMPTY: 
+[vquvh, smmuf]
+List state before ADD wkyeb at 0: 
+[vquvh, smmuf]
+List state after ADD: 
+[wkyeb, vquvh, smmuf]
+List state before GETINDEX smmuf: 
+[wkyeb, vquvh, smmuf]
+2
+List state after GETINDEX: 
+[wkyeb, vquvh, smmuf]
+List state before ADD hmhln at 0: 
+[wkyeb, vquvh, smmuf]
+List state after ADD: 
+[hmhln, wkyeb, vquvh, smmuf]
+List state before GETINDEX wkyeb: 
+[hmhln, wkyeb, vquvh, smmuf]
+1
+List state after GETINDEX: 
+[hmhln, wkyeb, vquvh, smmuf]
+List state before ISCONTAIN whlrp: 
+[hmhln, wkyeb, vquvh, smmuf]
+false
+List state after ISCONTAIN: 
+[hmhln, wkyeb, vquvh, smmuf]
+List state before GETINDEX vyplj: 
+[hmhln, wkyeb, vquvh, smmuf]
+-1
+List state after GETINDEX: 
+[hmhln, wkyeb, vquvh, smmuf]
+List state before ISCONTAIN xztho: 
+[hmhln, wkyeb, vquvh, smmuf]
+false
+List state after ISCONTAIN: 
+[hmhln, wkyeb, vquvh, smmuf]
+List state before GETSIZE : 
+[hmhln, wkyeb, vquvh, smmuf]
+4
+List state after GETSIZE: 
+[hmhln, wkyeb, vquvh, smmuf]
+List state before REMOVE  at 2: 
+[hmhln, wkyeb, vquvh, smmuf]
+List state after REMOVE: 
+[hmhln, wkyeb, smmuf]
+List state before GETSIZE : 
+[hmhln, wkyeb, smmuf]
+3
+List state after GETSIZE: 
+[hmhln, wkyeb, smmuf]
+List state before GET  at 1: 
+[hmhln, wkyeb, smmuf]
+wkyeb
+List state after GET: 
+[hmhln, wkyeb, smmuf]
+List state before REMOVE  at 2: 
+[hmhln, wkyeb, smmuf]
+List state after REMOVE: 
+[hmhln, wkyeb]
+List state before ISEMPTY : 
+[hmhln, wkyeb]
+false
+List state after ISEMPTY: 
+[hmhln, wkyeb]
+List state before ADD yliox at 1: 
+[hmhln, wkyeb]
+List state after ADD: 
+[hmhln, yliox, wkyeb]
+List state before ADD yrcuf: 
+[hmhln, yliox, wkyeb]
+List state after ADD: 
+[hmhln, yliox, wkyeb, yrcuf]
+List state before REMOVE  at 0: 
+[hmhln, yliox, wkyeb, yrcuf]
+List state after REMOVE: 
+[yliox, wkyeb, yrcuf]

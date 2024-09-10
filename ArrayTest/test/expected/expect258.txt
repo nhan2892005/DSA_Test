@@ -1,0 +1,78 @@
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ADD hqrdo: 
+[]
+List state after ADD: 
+[hqrdo]
+List state before ADD oopvb at 0: 
+[hqrdo]
+List state after ADD: 
+[oopvb, hqrdo]
+List state before ADD gnjer at 1: 
+[oopvb, hqrdo]
+List state after ADD: 
+[oopvb, gnjer, hqrdo]
+List state before ADD oglqu at 0: 
+[oopvb, gnjer, hqrdo]
+List state after ADD: 
+[oglqu, oopvb, gnjer, hqrdo]
+List state before ADD nypmh at 0: 
+[oglqu, oopvb, gnjer, hqrdo]
+List state after ADD: 
+[nypmh, oglqu, oopvb, gnjer, hqrdo]
+List state before ISCONTAIN zqbjh: 
+[nypmh, oglqu, oopvb, gnjer, hqrdo]
+false
+List state after ISCONTAIN: 
+[nypmh, oglqu, oopvb, gnjer, hqrdo]
+List state before ADD lxyjp: 
+[nypmh, oglqu, oopvb, gnjer, hqrdo]
+List state after ADD: 
+[nypmh, oglqu, oopvb, gnjer, hqrdo, lxyjp]
+List state before REMOVE hqrdo: 
+[nypmh, oglqu, oopvb, gnjer, hqrdo, lxyjp]
+List state after REMOVE: 
+[nypmh, oglqu, oopvb, gnjer, lxyjp]
+List state before ADD lbtla at 4: 
+[nypmh, oglqu, oopvb, gnjer, lxyjp]
+List state after ADD: 
+[nypmh, oglqu, oopvb, gnjer, lbtla, lxyjp]
+List state before ADD zxjot at 4: 
+[nypmh, oglqu, oopvb, gnjer, lbtla, lxyjp]
+List state after ADD: 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp]
+List state before ADD munsz: 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp]
+List state after ADD: 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp, munsz]
+List state before ISCONTAIN munsz: 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp, munsz]
+true
+List state after ISCONTAIN: 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp, munsz]
+List state before GETINDEX nhccw: 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp, munsz]
+-1
+List state after GETINDEX: 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp, munsz]
+List state before ISEMPTY : 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp, munsz]
+false
+List state after ISEMPTY: 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp, munsz]
+List state before GETINDEX ovkqo: 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp, munsz]
+-1
+List state after GETINDEX: 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp, munsz]
+List state before GETINDEX oopvb: 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp, munsz]
+2
+List state after GETINDEX: 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp, munsz]
+List state before ADD uzwjj at 9: 
+[nypmh, oglqu, oopvb, gnjer, zxjot, lbtla, lxyjp, munsz]
+Index is out of range!

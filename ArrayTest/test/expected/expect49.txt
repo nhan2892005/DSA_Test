@@ -1,0 +1,29 @@
+List state before ADD c: 
+[]
+List state after ADD: 
+[c]
+List state before GETSIZE : 
+[c]
+1
+List state after GETSIZE: 
+[c]
+List state before GETSIZE : 
+[c]
+1
+List state after GETSIZE: 
+[c]
+List state before ISEMPTY : 
+[c]
+false
+List state after ISEMPTY: 
+[c]
+List state before ISCONTAIN h: 
+[c]
+false
+List state after ISCONTAIN: 
+[c]
+List state before GET  at 0: 
+[c]
+c
+List state after GET: 
+[c]

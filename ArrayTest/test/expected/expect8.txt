@@ -1,0 +1,5 @@
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]

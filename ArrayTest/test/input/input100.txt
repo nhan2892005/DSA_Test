@@ -1,0 +1,15 @@
+TYPE:int
+REMOVE at:0
+GET at:0
+GET at:0
+REMOVE at:0
+REMOVE at:0
+CLEAR
+REMOVE at:0
+CLEAR
+GET at:0
+CLEAR
+GET at:0
+ADD value:50 at:1
+GETSIZE
+ADD value:12 at:1

@@ -1,0 +1,15 @@
+List state before ADD 78: 
+[]
+List state after ADD: 
+[78]
+List state before ADD 98 at 0: 
+[78]
+List state after ADD: 
+[98, 78]
+List state before CLEAR : 
+[98, 78]
+List state after CLEAR: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range!

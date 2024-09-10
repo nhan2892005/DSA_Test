@@ -1,0 +1,17 @@
+TYPE:str
+ADD value:hlymw
+CLEAR
+REMOVE at:0
+ADD value:uhoia at:1
+REMOVE at:0
+REMOVE at:0
+ADD value:obygb at:1
+GETINDEX value:obygb
+ISCONTAIN value:obygb
+REMOVE at:0
+CLEAR
+REMOVE at:0
+ADD value:jpkzp at:0
+ADD value:olffy at:1
+CLEAR
+GET at:0

@@ -1,0 +1,13 @@
+List state before ISCONTAIN c: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range!

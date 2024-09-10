@@ -1,0 +1,36 @@
+TYPE:chr
+REMOVE at:0
+GETSIZE
+ADD value:t
+REMOVE at:0
+ISEMPTY
+REMOVE at:0
+ISEMPTY
+GETSIZE
+ADD value:x at:0
+ISCONTAIN value:x
+GETSIZE
+REMOVE value:t
+GETSIZE
+ISEMPTY
+REMOVE at:0
+REMOVE at:0
+REMOVE at:0
+REMOVE at:0
+ISEMPTY
+ADD value:v at:0
+ISEMPTY
+ADD value:s at:1
+ISCONTAIN value:v
+ISCONTAIN value:v
+CLEAR
+ADD value:w
+REMOVE at:0
+GET at:0
+ADD value:j at:0
+ISCONTAIN value:j
+REMOVE at:0
+CLEAR
+CLEAR
+GET at:0
+GETINDEX value:e

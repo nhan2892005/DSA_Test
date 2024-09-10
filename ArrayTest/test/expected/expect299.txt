@@ -1,0 +1,108 @@
+List state before ADD zcqey at 0: 
+[]
+List state after ADD: 
+[zcqey]
+List state before ADD yqijr: 
+[zcqey]
+List state after ADD: 
+[zcqey, yqijr]
+List state before CLEAR : 
+[zcqey, yqijr]
+List state after CLEAR: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before GETINDEX ojoow: 
+[]
+-1
+List state after GETINDEX: 
+[]
+List state before ADD txuhn: 
+[]
+List state after ADD: 
+[txuhn]
+List state before ADD kknoc at 1: 
+[txuhn]
+List state after ADD: 
+[txuhn, kknoc]
+List state before ISCONTAIN kknoc: 
+[txuhn, kknoc]
+true
+List state after ISCONTAIN: 
+[txuhn, kknoc]
+List state before ADD cinrm at 2: 
+[txuhn, kknoc]
+List state after ADD: 
+[txuhn, kknoc, cinrm]
+List state before ADD ixvyf at 2: 
+[txuhn, kknoc, cinrm]
+List state after ADD: 
+[txuhn, kknoc, ixvyf, cinrm]
+List state before ADD maaiu at 2: 
+[txuhn, kknoc, ixvyf, cinrm]
+List state after ADD: 
+[txuhn, kknoc, maaiu, ixvyf, cinrm]
+List state before ISCONTAIN zspiv: 
+[txuhn, kknoc, maaiu, ixvyf, cinrm]
+false
+List state after ISCONTAIN: 
+[txuhn, kknoc, maaiu, ixvyf, cinrm]
+List state before GET  at 2: 
+[txuhn, kknoc, maaiu, ixvyf, cinrm]
+maaiu
+List state after GET: 
+[txuhn, kknoc, maaiu, ixvyf, cinrm]
+List state before CLEAR : 
+[txuhn, kknoc, maaiu, ixvyf, cinrm]
+List state after CLEAR: 
+[]
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD bqodm: 
+[]
+List state after ADD: 
+[bqodm]
+List state before ADD opofk at 0: 
+[bqodm]
+List state after ADD: 
+[opofk, bqodm]
+List state before ISCONTAIN bqodm: 
+[opofk, bqodm]
+true
+List state after ISCONTAIN: 
+[opofk, bqodm]
+List state before GETINDEX opofk: 
+[opofk, bqodm]
+0
+List state after GETINDEX: 
+[opofk, bqodm]
+List state before ADD vsrpq at 2: 
+[opofk, bqodm]
+List state after ADD: 
+[opofk, bqodm, vsrpq]
+List state before CLEAR : 
+[opofk, bqodm, vsrpq]
+List state after CLEAR: 
+[]
+List state before ISCONTAIN wzcty: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before ADD canfo at 1: 
+[]
+Index is out of range!

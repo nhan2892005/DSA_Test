@@ -1,0 +1,13 @@
+List state before GETSIZE : 
+[]
+0
+List state after GETSIZE: 
+[]
+List state before ISCONTAIN 15.51: 
+[]
+false
+List state after ISCONTAIN: 
+[]
+List state before ADD 64.63 at 1: 
+[]
+Index is out of range

@@ -1,0 +1,33 @@
+List state before ADD v at 0: 
+[]
+List state after ADD: 
+[v]
+List state before GETINDEX v: 
+[v]
+0
+List state after GETINDEX: 
+[v]
+List state before GET  at 0: 
+[v]
+v
+List state after GET: 
+[v]
+List state before ADD o at 0: 
+[v]
+List state after ADD: 
+[o, v]
+List state before ADD i at 2: 
+[o, v]
+List state after ADD: 
+[o, v, i]
+List state before ADD n at 1: 
+[o, v, i]
+List state after ADD: 
+[o, n, v, i]
+List state before CLEAR : 
+[o, n, v, i]
+List state after CLEAR: 
+[]
+List state before GET  at 0: 
+[]
+Index is out of range!

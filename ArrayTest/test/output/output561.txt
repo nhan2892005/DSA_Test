@@ -1,0 +1,61 @@
+List state before CLEAR : 
+[]
+List state after CLEAR: 
+[]
+List state before ADD qaqbe at 0: 
+[]
+List state after ADD: 
+[qaqbe]
+List state before ISCONTAIN zklha: 
+[qaqbe]
+false
+List state after ISCONTAIN: 
+[qaqbe]
+List state before ISCONTAIN qaqbe: 
+[qaqbe]
+true
+List state after ISCONTAIN: 
+[qaqbe]
+List state before GET  at 0: 
+[qaqbe]
+qaqbe
+List state after GET: 
+[qaqbe]
+List state before ISCONTAIN qaqbe: 
+[qaqbe]
+true
+List state after ISCONTAIN: 
+[qaqbe]
+List state before ISCONTAIN qaqbe: 
+[qaqbe]
+true
+List state after ISCONTAIN: 
+[qaqbe]
+List state before ADD fxshe at 0: 
+[qaqbe]
+List state after ADD: 
+[fxshe, qaqbe]
+List state before ADD gasap at 2: 
+[fxshe, qaqbe]
+List state after ADD: 
+[fxshe, qaqbe, gasap]
+List state before GET  at 1: 
+[fxshe, qaqbe, gasap]
+qaqbe
+List state after GET: 
+[fxshe, qaqbe, gasap]
+List state before ADD xdsfz at 3: 
+[fxshe, qaqbe, gasap]
+List state after ADD: 
+[fxshe, qaqbe, gasap, xdsfz]
+List state before REMOVE  at 3: 
+[fxshe, qaqbe, gasap, xdsfz]
+List state after REMOVE: 
+[fxshe, qaqbe, gasap]
+List state before CLEAR : 
+[fxshe, qaqbe, gasap]
+List state after CLEAR: 
+[]
+List state before ADD umomr at 1: 
+[]
+Index is out of range

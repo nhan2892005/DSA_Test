@@ -1,0 +1,22 @@
+TYPE:str
+ISEMPTY
+GETINDEX value:upmfb
+REMOVE at:0
+GET at:0
+ADD value:yjmur at:1
+GET at:0
+REMOVE at:0
+REMOVE at:0
+ADD value:tqgry at:1
+ISEMPTY
+ADD value:vecqr at:0
+ADD value:nwdcz
+ADD value:stboq at:3
+REMOVE at:0
+ADD value:iumpl at:3
+REMOVE at:3
+GETSIZE
+REMOVE at:2
+ISEMPTY
+REMOVE at:1
+ISEMPTY

@@ -1,0 +1,11 @@
+List state before ADD xyqnt: 
+[]
+List state after ADD: 
+[xyqnt]
+List state before CLEAR : 
+[xyqnt]
+List state after CLEAR: 
+[]
+List state before REMOVE  at 0: 
+[]
+Index is out of range!

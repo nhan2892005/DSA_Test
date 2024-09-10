@@ -1,0 +1,23 @@
+List state before ISEMPTY : 
+[]
+true
+List state after ISEMPTY: 
+[]
+List state before ADD u: 
+[]
+List state after ADD: 
+[u]
+List state before ADD m: 
+[u]
+List state after ADD: 
+[u, m]
+List state before GET  at 0: 
+[u, m]
+u
+List state after GET: 
+[u, m]
+List state before ISEMPTY : 
+[u, m]
+false
+List state after ISEMPTY: 
+[u, m]
