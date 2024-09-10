@@ -126,3 +126,26 @@ Based on the assignment brief, proceed to test the next task.
 [![Email](https://img.shields.io/badge/Email-nhan.nguyen2005phuyen@hcmut.edu.vn-green?logo=gmail)](nhan.nguyen2005phuyen@hcmut.edu.vn)
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?logo=globe)](https://phucnhan289.great-site.net/1/Ph%C3%BAc-Nh%C3%A2n.html)
+
+## Bonus: How to check memory leaks
+
+Prerequisite: Linux, MacOs, Solaris, FreeBSD or WSL
+
+- Step 1: install valgrind
+  
+ Check Here: `https://valgrind.org/docs/manual/dist.readme.html`
+ or : `https://stackoverflow.com/questions/24935217/how-to-install-valgrind-properly`
+
+- Step 2: after compile your source into <your_exe_file>
+  
+  ```
+    valgrind \
+    --leak-check=full \
+    --show-leak-kinds=all \
+    --track-origins=yes \
+    --verbose \
+    --log-file=<path_to_your_log_file> \
+    <your_exe_file> <arg of your program (optional)>
+  ```
+
+- Step 3: check log file
