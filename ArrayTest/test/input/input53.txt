@@ -1,8 +1,0 @@
-TYPE:str
-ADD value:bvnpd at:0
-GETINDEX value:bvnpd
-ADD value:rhngc at:0
-ISCONTAIN value:rhngc
-CLEAR
-ISEMPTY
-CLEAR

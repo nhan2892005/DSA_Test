@@ -1,2 +1,0 @@
-TYPE:Point
-GETINDEX value:Point(x=15.52, y=0.31, z=66.22)

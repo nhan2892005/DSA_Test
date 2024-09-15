@@ -2,8 +2,6 @@
 
 ## Introduction
 
-Automation test for DSA Assignment
-
 <div>
 <h1> Viet Nam National University 
 <h2> Ho Chi Minh City University of Technology
@@ -21,54 +19,48 @@ Place the files in the same directory as your project.
 
 * Example for folder's structure
 
-Assume you extract the root folder from LMS like this:
+Assume you extract the root folder from LMS, then go to dsastudents like this:
 
+> dsastudents
 ```
-tree -L 3
+$ tree -L 2
 .
-|-- __MACOSX       
-|   `-- dsastudents
-|       |-- include
-|       `-- src    
-`-- dsastudents
-    |-- include
-    |   |-- ann
-    |   |-- list
-    |   |-- util
-    |   |-- xflens
-    |   |-- xtensor
-    |   |-- xtensor-blas
-    |   `-- xtl
-    |-- main.cpp
-    |-- src
-    |   `-- ann
+|-- include
+|   |-- ann
+|   |-- list
+|   |-- util
+|   |-- xflens
+|   |-- xtensor     
+|   |-- xtensor-blas
+|   `-- xtl
+|-- main.cpp        
+|-- src
+|   `-- ann
 ```
 
-Then, place ‘ArrayTest’ and ‘array_list_test.cpp’ into ./dsastudents:
+Then, place all file here into ./dsastudents:
 
 ```
-tree -L 3
-.
-|-- __MACOSX       
-|   `-- dsastudents
-|       |-- include
-|       `-- src    
-`-- dsastudents    
-    |-- ArrayTest  
-    |   |-- test
-    |   `-- write_test.py       
-    |-- array_list_test.cpp
-    |-- include
-    |   |-- ann
-    |   |-- list
-    |   |-- util
-    |   |-- xflens
-    |   |-- xtensor
-    |   |-- xtensor-blas
-    |   `-- xtl
-    |-- main.cpp
-    |-- src
-    |   `-- ann
+$ tree -L 2
+.   
+|-- TestLog
+|   |-- Array
+|   `-- DLinkedList
+|-- array_list_test.cpp 
+|-- doubly_linked_list_test.cpp
+|-- include
+|   |-- ann
+|   |-- list
+|   |-- util
+|   |-- xflens
+|   |-- xtensor     
+|   |-- xtensor-blas
+|   `-- xtl
+|-- main.cpp        
+|-- src
+|   `-- ann
+
+18 directories, 7 files
 ```
 
 ### Run Test
@@ -76,38 +68,39 @@ Now, run this command in the terminal to compile the code into an executable fil
 
 Notes: Please come to `dsastudents` directory before run test
 
+<h6>To compile</h6>
 ```
-g++ -o <your exe> -Isrc -Iinclude -std=c++17 -g array_list_test.cpp
+g++ -o <your_exe> -Isrc -Iinclude -std=c++17 -g <file_need_to_be_run>.cpp
+```
+<h6>To run</h6>
+
+> For Linux
+```
+./your_exe [OPTION] [OTHERs (optional)]
 ```
 
-* Explanation: 
+> For Window
+```
+your_exe.exe [OPTION] [OTHERs (optional)]
+```
 
-```
-g++ : compiler (recommend because it be used for formal test)
--o your_exe : choose file you will compile to
--Isrc, -Iinclude: add parent path to run project
--std=c++17 : run c++ on version c++17
--g source_file : choose file need to be compile
-```
+OPTIONS:
+  - ?help: To print usage
+  - !demo: Run demo from original source
+  - !test: Run all test
+  - !test num_of_test: Run test numth
+  - !test num_start_test num_end_test: Run from <start> test to <end> test
+
+![Check it](usage.png)
 
 ### Check your result with mine
-
-- Path to input: `'./ArrayTest/test/input/input' + str(num) + '.txt'`
-- Path to your output: `'./ArrayTest/test/output/output' + str(num) + '.txt'`
-- Path to my output: `'./ArrayTest/test/expected/expect' + str(num) + '.txt'`
-- Path to log file: `'./ArrayTest/test/log/log' + str(num) + '.txt'`
-
-
-## How to generate test
-
-check ./ArrayTest/write_test.py
+All result in TestLog
 
 ## What next?
-
-Based on the assignment brief, proceed to test the next task.
+- Dataset and DataLoader
+- Class Layers and functions for MLP and xtensor_lib
 
 ## Contributing
-
 - Create an issue if you encounter a problem.
 - Send a pull request (to generate tests or fix test cases).
 

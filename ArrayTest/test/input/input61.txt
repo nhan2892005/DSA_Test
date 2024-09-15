@@ -1,9 +1,0 @@
-TYPE:int
-ADD value:11 at:1
-ADD value:100 at:0
-ISCONTAIN value:11
-CLEAR
-GETINDEX value:60
-GETINDEX value:3
-ISCONTAIN value:28
-REMOVE at:0

@@ -5,10 +5,11 @@
 #include <string>
 #include <filesystem>
 #include <regex>
-#include "include/list/XArrayList.h"
+#include "include/list/DLinkedList.h"
 #include "include/util/Point.h"
-#include "include/list/XArrayListDemo.h"
+#include "include/list/DLinkedListDemo.h"
 #include <regex>
+#include <exception>
 
 using namespace std;
 namespace fs = std::filesystem;
@@ -20,7 +21,7 @@ vector<int> diffTasks(0);
 vector<int> doTasks(0);
 
 void compareFile(const string& filename1, const string& filename2) {
-    string log_file = "TestLog/Array/ArrayTestLog_Compare.txt";
+    string log_file = "TestLog/DLinkedList/DLinkedListTestLog_Compare.txt";
     fstream file(log_file);
     if (!file.is_open()) {
         std::cout << "Cannot open file" << std::endl;
@@ -122,7 +123,7 @@ enum CommandType {
 // * 5. Test with Iterator
 
 template <class T>
-using Vector = XArrayList<T>;
+using Vector = DLinkedList<T>;
 
 void test1() {
     Vector<int> list;
@@ -705,35 +706,35 @@ void test16() {
     try {
         std::cout << "Add at index 1" << std::endl;
         list.add(1, 100);
-    } catch (const std::out_of_range& e) {
+    } catch (...) {
         std::cout << "Out of range" << std::endl;
     }
 
     try {
         std::cout << "removeAt index 1" << std::endl;
         list.removeAt(1);
-    } catch (const std::out_of_range& e) {
+    } catch (...) {
         std::cout << "Out of range" << std::endl;
     }
 
     try {
         std::cout << "Get index 1" << std::endl;
         list.get(1);
-    } catch (const std::out_of_range& e) {
+    } catch (...) {
         std::cout << "Out of range" << std::endl;
     }
 
     try {
         std::cout << "Get Index of 100" << std::endl;
         list.get(list.indexOf(100));
-    } catch (const std::out_of_range& e) {
+    } catch (...) {
         std::cout << "Out of range" << std::endl;
     }
 
     try {
         std::cout << "Remove at index -1" << std::endl;
         list.removeAt(-1);
-    } catch (const std::out_of_range& e) {
+    } catch (...) {
         std::cout << "Out of range" << std::endl;
     }
 
@@ -744,21 +745,21 @@ void test16() {
     try {
         std::cout << "Remove at index 10" << std::endl;
         list.removeAt(10);
-    } catch (const std::out_of_range& e) {
+    } catch (...) {
         std::cout << "Out of range" << std::endl;
     }   
 
     try {
         std::cout << "Remove at index 15" << std::endl;
         list.removeAt(15);
-    } catch (const std::out_of_range& e) {
+    } catch (...) {
         std::cout << "Out of range" << std::endl;
     }
 
     try {
         std::cout << "Remove at -1" << std::endl;
         list.removeAt(-1);
-    } catch (const std::out_of_range& e) {
+    } catch (...) {
         std::cout << "Out of range" << std::endl;
     }
 }
@@ -777,10 +778,12 @@ void printUsage() {
 }
 
 void runDemo() {
-    xlistDemo1();
-    xlistDemo2();
-    xlistDemo3();
-    xlistDemo4();
+    dlistDemo1();
+    dlistDemo2();
+    dlistDemo3();
+    dlistDemo4();
+    dlistDemo5();
+    dlistDemo6();
 }
 
 // pointer function to store 15 test
@@ -808,9 +811,9 @@ void (*testFuncs[])() = {
 // *             doesn't use pass by reference
 // *             => can't free pointer 
 int main(int argc, char* argv[]) {
-    string folder = "TestLog/Array";
-    string path = "ArrayTestLog_NhanOutput.txt";
-    string output = "ArrayTestLog_YourOutput.txt";
+    string folder = "TestLog/DLinkedList";
+    string path = "DLinkedListTestLog_NhanOutput.txt";
+    string output = "DLinkedListTestLog_YourOutput.txt";
     fstream file(folder + "/" + output);
     if (!file.is_open()) {
         fs::create_directory(folder);

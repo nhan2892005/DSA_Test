@@ -1,8 +1,0 @@
-List state before ISEMPTY : 
-[]
-true
-List state after ISEMPTY: 
-[]
-List state before ADD Point(x=81.8, y=97.34, z=24.61) at 1: 
-[]
-Index is out of range

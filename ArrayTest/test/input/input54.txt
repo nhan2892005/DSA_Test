@@ -1,8 +1,0 @@
-TYPE:float
-ADD value:45.85
-GETSIZE
-GET at:0
-GET at:0
-GET at:0
-ADD value:53.06 at:1
-ISCONTAIN value:53.06

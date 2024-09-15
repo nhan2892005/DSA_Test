@@ -1,4 +1,0 @@
-TYPE:float
-REMOVE at:0
-ADD value:24.9 at:0
-ADD value:68.18 at:0

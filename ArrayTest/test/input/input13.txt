@@ -1,2 +1,0 @@
-TYPE:Point
-REMOVE at:0

@@ -1,3 +1,0 @@
-List state before REMOVE  at 0: 
-[]
-Index is out of range

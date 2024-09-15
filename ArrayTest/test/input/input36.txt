@@ -1,6 +1,0 @@
-TYPE:Point
-GET at:0
-REMOVE at:0
-ADD value:Point(x=72.84, y=36.84, z=86.0)
-REMOVE at:0
-GETSIZE

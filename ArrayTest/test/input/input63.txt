@@ -1,9 +1,0 @@
-TYPE:Point
-GET at:0
-CLEAR
-ISCONTAIN value:Point(x=34.89, y=75.27, z=82.21)
-REMOVE at:0
-ADD value:Point(x=86.79, y=6.19, z=56.51) at:1
-ISCONTAIN value:Point(x=86.79, y=6.19, z=56.51)
-REMOVE value:Point(x=86.79, y=6.19, z=56.51)
-ISCONTAIN value:Point(x=19.64, y=33.43, z=64.73)

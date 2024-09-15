@@ -1,4 +1,0 @@
-TYPE:Point
-REMOVE at:0
-REMOVE at:0
-GETSIZE

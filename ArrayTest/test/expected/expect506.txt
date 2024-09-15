@@ -1,3 +1,0 @@
-List state before ADD froan at 1: 
-[]
-Index is out of range!

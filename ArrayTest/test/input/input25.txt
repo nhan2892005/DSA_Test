@@ -1,4 +1,0 @@
-TYPE:float
-GET at:0
-ADD value:46.55 at:0
-CLEAR

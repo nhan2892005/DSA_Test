@@ -1,3 +1,0 @@
-List state before ADD Point(x=30.22, y=69.53, z=1.73) at 1: 
-[]
-Index is out of range

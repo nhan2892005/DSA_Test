@@ -1,8 +1,0 @@
-TYPE:int
-ADD value:14 at:1
-REMOVE value:14
-ISCONTAIN value:6
-ISEMPTY
-ADD value:87 at:1
-REMOVE at:8
-REMOVE at:4

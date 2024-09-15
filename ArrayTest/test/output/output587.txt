@@ -1,8 +1,0 @@
-List state before GETINDEX 29.94: 
-[]
--1
-List state after GETINDEX: 
-[]
-List state before GET  at 0: 
-[]
-Index is out of range

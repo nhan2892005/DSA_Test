@@ -1,6 +1,0 @@
-TYPE:float
-GET at:0
-ISCONTAIN value:53.28
-ADD value:98.56 at:1
-GET at:0
-ISEMPTY

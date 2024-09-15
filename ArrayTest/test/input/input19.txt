@@ -1,3 +1,0 @@
-TYPE:Point
-CLEAR
-GETSIZE

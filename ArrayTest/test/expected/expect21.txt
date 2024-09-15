@@ -1,8 +1,0 @@
-List state before CLEAR : 
-[]
-List state after CLEAR: 
-[]
-List state before ADD Point(x=18.69, y=71.55, z=91.56): 
-[]
-List state after ADD: 
-[P( 18.69, 71.55, 91.56)]

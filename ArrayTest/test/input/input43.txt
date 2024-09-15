@@ -1,7 +1,0 @@
-TYPE:chr
-ADD value:o at:0
-REMOVE at:0
-ADD value:s at:1
-REMOVE at:0
-ISEMPTY
-GETINDEX value:t

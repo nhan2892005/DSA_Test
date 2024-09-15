@@ -1,8 +1,0 @@
-TYPE:float
-ADD value:32.66 at:0
-GET at:0
-REMOVE at:0
-GETSIZE
-GETINDEX value:13.17
-ADD value:10.7
-ISEMPTY

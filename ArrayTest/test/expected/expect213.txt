@@ -1,7 +1,0 @@
-List state before ADD Point(x=82.1, y=78.53, z=47.01): 
-[]
-List state after ADD: 
-[P( 82.10, 78.53, 47.01)]
-List state before REMOVE  at 1: 
-[P( 82.10, 78.53, 47.01)]
-Index is out of range!

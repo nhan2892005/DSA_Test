@@ -1,8 +1,0 @@
-List state before ISCONTAIN 21.38: 
-[]
-false
-List state after ISCONTAIN: 
-[]
-List state before GET  at 0: 
-[]
-Index is out of range!

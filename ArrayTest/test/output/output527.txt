@@ -1,8 +1,0 @@
-List state before GETINDEX Point(x=59.74, y=79.84, z=29.58): 
-[]
--1
-List state after GETINDEX: 
-[]
-List state before ADD Point(x=89.27, y=30.71, z=0.65) at 1: 
-[]
-Index is out of range

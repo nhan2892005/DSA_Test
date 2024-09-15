@@ -1,8 +1,0 @@
-List state before ISCONTAIN vhwez: 
-[]
-false
-List state after ISCONTAIN: 
-[]
-List state before REMOVE  at 0: 
-[]
-Index is out of range

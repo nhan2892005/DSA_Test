@@ -1,3 +1,0 @@
-TYPE:Point
-CLEAR
-GET at:0

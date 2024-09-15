@@ -1,7 +1,0 @@
-List state before CLEAR : 
-[]
-List state after CLEAR: 
-[]
-List state before ADD Point(x=76.25, y=84.7, z=42.41) at 1: 
-[]
-Index is out of range!

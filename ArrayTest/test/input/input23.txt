@@ -1,4 +1,0 @@
-TYPE:str
-REMOVE at:0
-CLEAR
-ADD value:pbeyp at:0

@@ -1,8 +1,0 @@
-List state before ISCONTAIN Point(x=83.7, y=92.11, z=13.37): 
-[]
-false
-List state after ISCONTAIN: 
-[]
-List state before ADD Point(x=98.55, y=35.41, z=90.46) at 1: 
-[]
-Index is out of range

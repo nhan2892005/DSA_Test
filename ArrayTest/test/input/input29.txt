@@ -1,5 +1,0 @@
-TYPE:int
-GET at:0
-REMOVE at:0
-ISEMPTY
-CLEAR

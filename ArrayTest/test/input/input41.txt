@@ -1,6 +1,0 @@
-TYPE:Point
-ADD value:Point(x=17.44, y=7.45, z=99.11) at:1
-ADD value:Point(x=51.46, y=84.33, z=77.6)
-ADD value:Point(x=67.52, y=94.98, z=3.92) at:0
-ISEMPTY
-GETSIZE

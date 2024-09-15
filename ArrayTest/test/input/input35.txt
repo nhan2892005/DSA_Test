@@ -1,5 +1,0 @@
-TYPE:chr
-GETINDEX value:m
-CLEAR
-GET at:0
-REMOVE at:0

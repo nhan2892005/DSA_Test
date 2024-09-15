@@ -1,3 +1,0 @@
-List state before ADD jsrvr at 1: 
-[]
-Index is out of range!

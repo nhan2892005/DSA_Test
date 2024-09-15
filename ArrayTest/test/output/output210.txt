@@ -1,3 +1,0 @@
-List state before ADD c at 1: 
-[]
-Index is out of range

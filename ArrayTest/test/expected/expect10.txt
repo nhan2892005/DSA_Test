@@ -1,4 +1,0 @@
-List state before ADD Point(x=54.29, y=92.23, z=66.31): 
-[]
-List state after ADD: 
-[P( 54.29, 92.23, 66.31)]

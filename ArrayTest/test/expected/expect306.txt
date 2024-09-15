@@ -1,8 +1,0 @@
-List state before GETSIZE : 
-[]
-0
-List state after GETSIZE: 
-[]
-List state before ADD Point(x=38.24, y=48.67, z=48.09) at 1: 
-[]
-Index is out of range!

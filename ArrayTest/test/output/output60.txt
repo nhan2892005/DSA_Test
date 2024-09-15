@@ -1,7 +1,0 @@
-List state before CLEAR : 
-[]
-List state after CLEAR: 
-[]
-List state before ADD 13.01 at 1: 
-[]
-Index is out of range

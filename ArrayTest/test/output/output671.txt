@@ -1,3 +1,0 @@
-List state before GET  at 0: 
-[]
-Index is out of range

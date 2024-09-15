@@ -1,8 +1,0 @@
-List state before GETINDEX Point(x=30.55, y=58.15, z=36.85): 
-[]
--1
-List state after GETINDEX: 
-[]
-List state before REMOVE  at 0: 
-[]
-Index is out of range

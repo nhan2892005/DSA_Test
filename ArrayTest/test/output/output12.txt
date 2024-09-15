@@ -1,5 +1,0 @@
-List state before GETINDEX Point(x=98.97, y=90.47, z=4.73): 
-[]
--1
-List state after GETINDEX: 
-[]

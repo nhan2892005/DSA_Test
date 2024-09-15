@@ -1,8 +1,0 @@
-List state before ISEMPTY : 
-[]
-true
-List state after ISEMPTY: 
-[]
-List state before ADD h at 1: 
-[]
-Index is out of range!

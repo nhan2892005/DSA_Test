@@ -1,8 +1,0 @@
-List state before GETINDEX 36.67: 
-[]
--1
-List state after GETINDEX: 
-[]
-List state before REMOVE  at 0: 
-[]
-Index is out of range!

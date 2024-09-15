@@ -1,8 +1,0 @@
-List state before GETINDEX lwryq: 
-[]
--1
-List state after GETINDEX: 
-[]
-List state before GET  at 0: 
-[]
-Index is out of range

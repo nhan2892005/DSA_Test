@@ -1,3 +1,0 @@
-List state before ADD 16.39 at 1: 
-[]
-Index is out of range

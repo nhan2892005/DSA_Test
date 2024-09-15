@@ -1,7 +1,0 @@
-TYPE:chr
-ADD value:z at:0
-ISCONTAIN value:z
-GETSIZE
-GETINDEX value:z
-REMOVE at:1
-GET at:0

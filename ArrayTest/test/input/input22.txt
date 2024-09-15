@@ -1,4 +1,0 @@
-TYPE:str
-REMOVE at:0
-ISCONTAIN value:mhzfe
-ISEMPTY

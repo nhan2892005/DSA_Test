@@ -1,3 +1,0 @@
-TYPE:int
-REMOVE at:0
-CLEAR

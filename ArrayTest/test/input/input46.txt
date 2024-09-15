@@ -1,7 +1,0 @@
-TYPE:Point
-GETSIZE
-ISEMPTY
-ADD value:Point(x=40.01, y=83.76, z=36.3)
-GETSIZE
-REMOVE at:0
-ISCONTAIN value:Point(x=74.59, y=29.39, z=22.08)
