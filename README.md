@@ -68,10 +68,33 @@ Now, run this command in the terminal to compile the code into an executable fil
 
 Notes: Please come to `dsastudents` directory before run test
 
-<h6>To compile</h6>
+<h2>To compile</h2>
+
+**For Array List and Doubly Linked List**
 ```
-g++ -o <your_exe> -Isrc -Iinclude -std=c++17 -g <file_need_to_be_run>.cpp
+g++ -o <your_exe> -Isrc -Iinclude -std=c++17 -g <file_need_to_be_run>.cpp src/ann/functions.cpp src/ann/xtensor_lib.cpp
 ```
+
+Ex: g++ -o test_list -Isrc -Iinclude -std=c++17 -g array_list_test.cpp
+
+**For Dataset and Data Loader**
+```
+g++ -o <your_exe> -Isrc -Iinclude -std=c++17 -g test_dataset_and_loader.cpp src/ann/functions.cpp src/ann/xtensor_lib.cpp
+```
+
+Ex: g++ -o test_loaddata -Isrc -Iinclude -std=c++17 -g test_dataset_and_loader.cpp src/ann/ReLU.cpp src/ann/functions.cpp src/ann/xtensor_lib.cpp
+
+Note: In case of an error, ensure that function.cpp and xtensor_lib.cpp are implemented exactly as required. If not, please comment out your code.
+
+**For layer of MLP**
+```
+g++ -o <your_exe> -Isrc -Iinclude -std=c++17 -g <file_need_to_be_run>.cpp src/ann/<Layer you want to test>.cpp src/ann/functions.cpp src/ann/xtensor_lib.cpp
+```
+
+Ex: g++ -o test_ReLU -Isrc -Iinclude -std=c++17 -g test_ReLU.cpp src/ann/ReLU.cpp src/ann/functions.cpp src/ann/xtensor_lib.cpp
+
+Note: In case of an error, ensure that function.cpp and xtensor_lib.cpp are implemented exactly as required. If not, please comment out your code.
+
 <h6>To run</h6>
 
 > For Linux
@@ -97,8 +120,7 @@ OPTIONS:
 All result in TestLog
 
 ## What next?
-- Dataset and DataLoader
-- Class Layers and functions for MLP and xtensor_lib
+- Test for xtensor_lib
 
 ## Contributing
 - Create an issue if you encounter a problem.
