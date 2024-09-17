@@ -299,7 +299,7 @@ int main(int argc, char* argv[]) {
             // Restore cout
             cout.rdbuf(stream_buffer_cout);
 
-            //compareFile(folder + "/" + path, folder + "/" + output);
+            compareFile(folder + "/" + path, folder + "/" + output);
         }
     }
     return 0;
