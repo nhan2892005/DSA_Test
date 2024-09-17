@@ -42,25 +42,31 @@ Then, place all file here into ./dsastudents:
 
 ```
 $ tree -L 2
-.   
-|-- TestLog
-|   |-- Array
-|   `-- DLinkedList
-|-- array_list_test.cpp 
-|-- doubly_linked_list_test.cpp
-|-- include
-|   |-- ann
-|   |-- list
-|   |-- util
-|   |-- xflens
-|   |-- xtensor     
-|   |-- xtensor-blas
-|   `-- xtl
-|-- main.cpp        
-|-- src
-|   `-- ann
-
-18 directories, 7 files
+.
+├── TestLog
+│   ├── Array
+│   ├── DLinkedList
+│   ├── DataSetAndLoader
+│   ├── FCLayer
+│   ├── ReLU
+│   └── Softmax
+├── include
+│   ├── ann
+│   ├── list
+│   ├── util
+│   ├── xflens
+│   ├── xtensor
+│   ├── xtensor-blas
+│   └── xtl
+├── main.cpp
+├── src
+│   └── ann
+├── array_list_test.cpp
+├── doubly_linked_list_test.cpp
+├── test_FCLayer.cpp
+├── test_ReLU.cpp
+├── test_Softmax.cpp
+└── test_dataset_and_loader.cpp
 ```
 
 ### Run Test
