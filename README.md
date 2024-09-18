@@ -115,10 +115,10 @@ your_exe.exe [OPTION] [OTHERs (optional)]
 
 OPTIONS:
   - ?help: To print usage
-  - !demo: Run demo from original source
-  - !test: Run all test
-  - !test num_of_test: Run test numth
-  - !test num_start_test num_end_test: Run from <start> test to <end> test
+  - demo: Run demo from original source
+  - test: Run all test
+  - test num_of_test: Run test numth
+  - test num_start_test num_end_test: Run from <start> test to <end> test
 
 ![Check it](usage.png)
 
