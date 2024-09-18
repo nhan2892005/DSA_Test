@@ -21,7 +21,7 @@ vector<int> diffTasks(0);
 vector<int> doTasks(0);
 
 void compareFile(const string& filename1, const string& filename2) {
-    string log_file = "TestLog/Softmax/DLinkedListTestLog_Compare.txt";
+    string log_file = "TestLog/Softmax/SoftmaxTestLog_Compare.txt";
     fstream file(log_file);
     if (!file.is_open()) {
         std::cout << "Cannot open file" << std::endl;
