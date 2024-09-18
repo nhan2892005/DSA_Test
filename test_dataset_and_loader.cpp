@@ -17,8 +17,8 @@ using namespace std;
 namespace fs = std::filesystem;
 int num_task = 7;
 
-vector<vector<string>> expected_task (num_task, vector<string>(50, ""));
-vector<vector<string>> output_task (num_task, vector<string>(50, ""));
+vector<vector<string>> expected_task (num_task, vector<string>(10000, ""));
+vector<vector<string>> output_task (num_task, vector<string>(10000, ""));
 vector<int> diffTasks(0);
 vector<int> doTasks(0);
 
@@ -300,7 +300,7 @@ int main(int argc, char* argv[]) {
             return 0;
         }
         else
-        if (string(argv[1]) == "!demo") {
+        if (string(argv[1]) == "demo") {
             runDemo();
             return 0;
         }
@@ -309,7 +309,7 @@ int main(int argc, char* argv[]) {
             string folder = "TestLog/DataSetAndLoader";
             string path = "DataSetAndLoaderTestLog_NhanOutput.txt";
             string output = "DataSetAndLoaderTestLog_YourOutput.txt";
-            fstream file(folder + "/" + path);
+            fstream file(folder + "/" + output);
             if (!file.is_open()) {
                 fs::create_directory(folder);
                 std::cout << "Create folder " << fs::absolute(folder) << std::endl;
@@ -319,7 +319,7 @@ int main(int argc, char* argv[]) {
             streambuf* stream_buffer_cout = cout.rdbuf();
             cout.rdbuf(file.rdbuf());
 
-            if (string(argv[1]) == "!test") {
+            if (string(argv[1]) == "test") {
                 if (argc == 2) {
                     for (int i = 0; i < num_task; i++) {
                         std::cout << "Task " << i + 1 << "---------------------------------------------------" <<std::endl;
