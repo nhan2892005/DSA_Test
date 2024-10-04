@@ -23,7 +23,7 @@ vector<int> doTasks(0);
 
 void compareFile(const string& filename1, const string& filename2) {
     string log_file = "TestLog/FCLayer/FCLayerTestLog_Compare.txt";
-    fstream file(log_file);
+    fstream file(log_file, ios::out);
     if (!file.is_open()) {
         std::cout << "Cannot open file" << std::endl;
         return;
@@ -115,10 +115,10 @@ void printUsage() {
     std::cout << "Usage: exe_file [OPTIONS] [TASK]" << std::endl;
     std::cout << "OPTIONS:" << std::endl;
     std::cout << "  ?help: show help" << std::endl;
-    std::cout << "  !demo: run demo" << std::endl;
-    std::cout << "  !test: run all test" << std::endl;
-    std::cout << "  !test [task]: run specific test" << std::endl;
-    std::cout << "  !test [start_task] [end_task] : run test from start_task to end_task" << std::endl;
+    std::cout << "  demo: run demo" << std::endl;
+    std::cout << "  test: run all test" << std::endl;
+    std::cout << "  test [task]: run specific test" << std::endl;
+    std::cout << "  test [start_task] [end_task] : run test from start_task to end_task" << std::endl;
     std::cout << "This test has 15 tasks" << std::endl;
 }
 
@@ -234,11 +234,11 @@ int main(int argc, char* argv[]) {
             string folder = "TestLog/FCLayer";
             string path = "FCLayerTestLog_NhanOutput.txt";
             string output = "FCLayerTestLog_YourOutput.txt";
-            fstream file(folder + "/" + output);
+            fstream file(folder + "/" + output, ios::out);
             if (!file.is_open()) {
                 fs::create_directory(folder);
                 std::cout << "Create folder " << fs::absolute(folder) << std::endl;
-                file.open(folder + "/" + output);
+                file.open(folder + "/" + output, ios::out);
             }
             //change cout to file
             streambuf* stream_buffer_cout = cout.rdbuf();

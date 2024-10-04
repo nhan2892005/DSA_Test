@@ -78,14 +78,14 @@ Notes: Please come to `dsastudents` directory before run test
 
 **For Array List and Doubly Linked List**
 ```
-g++ -o <your_exe> -Isrc -Iinclude -std=c++17 -g <file_need_to_be_run>.cpp src/ann/functions.cpp src/ann/xtensor_lib.cpp
+g++ -o <your_exe> -Iinclude -std=c++17 -g <file_need_to_be_run>.cpp
 ```
 
-Ex: g++ -o test_list -Isrc -Iinclude -std=c++17 -g array_list_test.cpp
+Ex: g++ -o test_list -Iinclude -std=c++17 -g array_list_test.cpp
 
 **For Dataset and Data Loader**
 ```
-g++ -o <your_exe> -Isrc -Iinclude -std=c++17 -g test_dataset_and_loader.cpp src/ann/functions.cpp src/ann/xtensor_lib.cpp
+g++ -o <your_exe> -Iinclude -std=c++17 -g <file_need_to_be_run>.cpp src/ann/xtensor_lib.cpp
 ```
 
 Ex: g++ -o test_loaddata -Isrc -Iinclude -std=c++17 -g test_dataset_and_loader.cpp src/ann/ReLU.cpp src/ann/functions.cpp src/ann/xtensor_lib.cpp
@@ -101,7 +101,7 @@ Ex: g++ -o test_ReLU -Isrc -Iinclude -std=c++17 -g test_ReLU.cpp src/ann/ReLU.cp
 
 Note: In case of an error, ensure that function.cpp and xtensor_lib.cpp are implemented exactly as required. If not, please comment out your code.
 
-<h2>To compile</h2>
+<h2>To Run</h2>
 
 > For Linux
 ```
@@ -110,7 +110,7 @@ Note: In case of an error, ensure that function.cpp and xtensor_lib.cpp are impl
 
 > For Window
 ```
-your_exe.exe [OPTION] [OTHERs (optional)]
+./your_exe.exe [OPTION] [OTHERs (optional)]
 ```
 
 OPTIONS:
