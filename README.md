@@ -120,7 +120,7 @@ OPTIONS:
   - test num_of_test: Run test numth
   - test num_start_test num_end_test: Run from <start> test to <end> test
 
-![Check it](usage.png)
+![Check it](asset/usage.png)
 
 ### Check your result with mine
 All result in TestLog
