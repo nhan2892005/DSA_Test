@@ -50,6 +50,8 @@ git init
 
 Lệnh này sẽ tạo một thư mục `.git` ẩn để quản lý phiên bản cho dự án.
 
+![Gitinit](asset/gitinit.png)
+
 ### Bước 2: Kiểm tra trạng thái của repository
 Dùng lệnh sau để kiểm tra trạng thái của repository, hiển thị các file đã thay đổi hoặc chưa được commit:
 
@@ -129,6 +131,8 @@ Trong VSCode, bạn có thể thực hiện các thao tác Git cơ bản từ th
 - **Source Control View** (Ctrl + Shift + G): Xem trạng thái các file đã thay đổi.
 - **Commit**: Thêm thông điệp và commit trực tiếp trong VSCode.
 - **Push/Pull**: Đẩy hoặc kéo các thay đổi từ GitHub.
+
+![Git in VSCode](asset/gitinvscode.png)
 
 ## 5. Các lệnh Git cơ bản khác
 
