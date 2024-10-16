@@ -10,7 +10,10 @@
 <h5> First Author: Nguyen Phuc Nhan
 </div>
 
-- Version v0.1 : Test Array List Method
+- Version v1.1 : Restructuring the project's folder and adding more test cases for the assignment
+- Version v0.1 : If you use same folder structure as the assignment 1, you can read here [README.old.md](README.old.md)
+
+* For new version, I will provide more test cases for the assignment 2. You can check the result of your code with mine. Additionally, I will update argruments for compile project with C++.
 
 ## How to?
 
@@ -21,80 +24,169 @@ Place the files in the same directory as your project.
 
 Assume you extract the root folder from LMS, then go to dsastudents like this:
 
-> dsastudents
+> Assignment
 ```
-$ tree -L 2
+$  tree -L 3
 .
-|-- include
-|   |-- ann
-|   |-- list
-|   |-- util
-|   |-- xflens
-|   |-- xtensor     
-|   |-- xtensor-blas
-|   `-- xtl
-|-- main.cpp        
-|-- src
-|   `-- ann
+├── Code
+│   ├── Makefile
+│   ├── compilation-command.sh
+│   ├── config.txt
+│   ├── datasets
+│   │   ├── 2c-classification
+│   │   └── 3c-classification
+│   ├── demo
+│   │   ├── ann
+│   │   ├── graph
+│   │   ├── hash
+│   │   ├── heap
+│   │   ├── list
+│   │   ├── loader
+│   │   ├── sformat
+│   │   ├── sorting
+│   │   ├── stacknqueue
+│   │   ├── tensor
+│   │   ├── tree
+│   │   └── util
+│   ├── include
+│   │   ├── ann
+│   │   ├── dsaheader.h
+│   │   ├── graph
+│   │   ├── hash
+│   │   ├── heap
+│   │   ├── list
+│   │   ├── loader
+│   │   ├── sformat
+│   │   ├── sorting
+│   │   ├── stacknqueue
+│   │   ├── tensor
+│   │   ├── tree
+│   │   └── util
+│   ├── models
+│   │   ├── 2c-classification
+│   │   ├── 2c-classification-1
+│   │   ├── 3c-classification
+│   │   └── 3c-classification-1
+│   └── src
+│       ├── ann
+│       ├── program.cpp
+│       └── tensor
+├── Spec
+│   └── V1.0
+│       ├── Assignment2-en.pdf
+│       ├── Assignment2-vn.pdf
+│       └── DSA241-VN.pdf
+└── Tutorials
+    ├── ann-tutorials-en.pdf
+    └── ann-tutorials-vn.pdf
 ```
 
-Then, place all file here into ./dsastudents:
+Then, place all file here into `Assignment`:
 
 ```
-$ tree -L 2
+$  tree -L 3
 .
-├── TestLog
-│   ├── Array
-│   ├── DLinkedList
-│   ├── DataSetAndLoader
-│   ├── FCLayer
-│   ├── ReLU
-│   └── Softmax
-├── include
-│   ├── ann
-│   ├── list
-│   ├── util
-│   ├── xflens
-│   ├── xtensor
-│   ├── xtensor-blas
-│   └── xtl
-├── main.cpp
-├── src
-│   └── ann
-├── array_list_test.cpp
-├── doubly_linked_list_test.cpp
-├── test_FCLayer.cpp
-├── test_ReLU.cpp
-├── test_Softmax.cpp
-└── test_dataset_and_loader.cpp
+├── Code
+│   ├── Makefile
+│   ├── compilation-command.sh
+│   ├── config.txt
+│   ├── datasets
+│   │   ├── 2c-classification
+│   │   └── 3c-classification
+│   ├── demo
+│   │   ├── ann
+│   │   ├── graph
+│   │   ├── hash
+│   │   ├── heap
+│   │   ├── list
+│   │   ├── loader
+│   │   ├── sformat
+│   │   ├── sorting
+│   │   ├── stacknqueue
+│   │   ├── tensor
+│   │   ├── tree
+│   │   └── util
+│   ├── include
+│   │   ├── ann
+│   │   ├── dsaheader.h
+│   │   ├── graph
+│   │   ├── hash
+│   │   ├── heap
+│   │   ├── list
+│   │   ├── loader
+│   │   ├── sformat
+│   │   ├── sorting
+│   │   ├── stacknqueue
+│   │   ├── tensor
+│   │   ├── tree
+│   │   └── util
+│   ├── models
+│   │   ├── 2c-classification
+│   │   ├── 2c-classification-1
+│   │   ├── 3c-classification
+│   │   └── 3c-classification-1
+│   └── src
+│       ├── ann
+│       ├── program.cpp
+│       └── tensor
+├── Self_test
+│   ├── DemoLog.txt
+│   ├── TestLog
+│   │   ├── Array
+│   │   ├── BaseModel
+│   │   ├── DLinkedList
+│   │   ├── DataSetAndLoader
+│   │   ├── FCLayer
+│   │   ├── HashMap
+│   │   ├── ReLU
+│   │   └── Softmax
+│   ├── test_BaseModel.cpp
+│   ├── test_FCLayer.cpp
+│   ├── test_MLP.cpp
+│   ├── test_ReLU.cpp
+│   ├── test_Softmax.cpp
+│   ├── test_array_list.cpp
+│   ├── test_dataset_and_loader.cpp
+│   ├── test_doubly_linked_list.cpp
+│   ├── test_hash_map.cpp
+│   ├── test_load_data
+│   ├── test_xtensor_lib.cpp
+│   ├── training.cpp
+│   ├── unit_test_program
+│   └── valgrind-out.txt
+├── Spec
+│   └── V1.0
+│       ├── Assignment2-en.pdf
+│       ├── Assignment2-vn.pdf
+└── Tutorials
+    ├── ann-tutorials-en.pdf
+    └── ann-tutorials-vn.pdf
 ```
 
 ### Run Test
 Now, run this command in the terminal to compile the code into an executable file:
 
-Notes: Please come to `dsastudents` directory before run test
-
 <h2>To compile</h2>
 
-**For Array List and Doubly Linked List**
+**For Array List, Doubly Linked List, Heap, Hash, ...**
 ```
-g++ -o <your_exe> -Iinclude -std=c++17 -g <file_need_to_be_run>.cpp
+g++ -o <your_exe> -ICode/include -ICode/include/ann -ICode/include/tensor -ICode/include/sformat -ICode/demo -ICode/src -ISelf_test -std=c++17 -g ./Self_test/<file_need_to_be_run>.cpp
 ```
 
-Ex: g++ -o test_list -Iinclude -std=c++17 -g array_list_test.cpp
+Ex: g++ -o test_list -ICode/include -ICode/include/ann -ICode/include/tensor -ICode/include/sformat -ICode/demo -ICode/src -ISelf_test -std=c++17 -g array_list_test.cpp
 
 **For Dataset and Data Loader**
 ```
-g++ -o <your_exe> -Iinclude -std=c++17 -g <file_need_to_be_run>.cpp src/ann/xtensor_lib.cpp
+g++ -o <your_exe> -ICode/include -ICode/include/ann -ICode/include/tensor -ICode/include/sformat -ICode/demo -ICode/src -ISelf_test -std=c++17 -g ./Self_test/<file_need_to_be_run>.cpp ./Code/src/tensor/xtensor_lib.cpp
 ```
 
-Ex: g++ -o test_loaddata -Isrc -Iinclude -std=c++17 -g test_dataset_and_loader.cpp src/ann/ReLU.cpp src/ann/functions.cpp src/ann/xtensor_lib.cpp
+Ex: g++ -o test_loaddata -ICode/include -ICode/include/ann -ICode/include/tensor -ICode/include/sformat -ICode/demo -ICode/src -ISelf_test -std=c++17 -g test_dataset_and_loader.cpp src/ann/ReLU.cpp src/ann/functions.cpp src/ann/xtensor_lib.cpp
 
 Note: In case of an error, ensure that function.cpp and xtensor_lib.cpp are implemented exactly as required. If not, please comment out your code.
 
 **For layer of MLP**
 ```
-g++ -o <your_exe> -Isrc -Iinclude -std=c++17 -g <file_need_to_be_run>.cpp src/ann/<Layer you want to test>.cpp src/ann/functions.cpp src/ann/xtensor_lib.cpp
+g++ -o <your_exe> -ICode/include -ICode/include/ann -ICode/include/tensor -ICode/include/sformat -ICode/demo -ICode/src -ISelf_test -std=c++17 -g <file_need_to_be_run>.cpp src/ann/<Layer you want to test>.cpp src/ann/functions.cpp src/ann/xtensor_lib.cpp
 ```
 
 Ex: g++ -o test_ReLU -Isrc -Iinclude -std=c++17 -g test_ReLU.cpp src/ann/ReLU.cpp src/ann/functions.cpp src/ann/xtensor_lib.cpp
